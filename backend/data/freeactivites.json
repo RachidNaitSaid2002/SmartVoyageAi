@@ -1,0 +1,3398 @@
+[
+{
+  "id": "4929764",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping"
+  ],
+  "name": "Agadir Argan Shop",
+  "locationString": "Agadir, Souss-Massa",
+  "description": "Argan oil and argan product shop in Agadir",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/2d/02/c8/agadir-argan-shop.jpg",
+  "photoCount": 3,
+  "rankingPosition": 7,
+  "rating": 4.5,
+  "rawRanking": 2.922353506088257,
+  "phone": "+212 601-676336",
+  "address": "5 Moulay Smail street block, Agadir 80000 Morocco",
+  "addressObj": {
+    "street1": "5 Moulay Smail street block",
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80000"
+  },
+  "localName": "‫Agadir Argan Shop‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": "haridomar@gmail.com",
+  "latitude": 30.42179,
+  "longitude": -9.59853,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d4929764-Reviews-Agadir_Argan_Shop-Agadir_Souss_Massa.html",
+  "website": "https://www.facebook.com/agadir.argan.oil",
+  "rankingString": "#7 of 62 Shopping in Agadir",
+  "rankingDenominator": "62",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 1,
+    "count4": 9,
+    "count5": 17
+  },
+  "numberOfReviews": 29,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FGuided-tour-of-Argan-Oil-production-factory-for-organic-cosmetics%2Fd4383-261665P20%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0676885f41a314f82&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=4929764&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$0.04",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FGuided-tour-of-Argan-Oil-production-factory-for-organic-cosmetics%2Fd4383-261665P20%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0676885f41a314f82&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=4929764&clt=TD&from=api&nt=true",
+        "price": "$4.36",
+        "roundedUpPrice": "$5",
+        "offerType": null,
+        "title": "Guided tour of Argan Oil production factory for organic cosmetics",
+        "productCode": "261665P20",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/5c/61/cf.jpg",
+        "description": null,
+        "primaryCategory": "Historical & Heritage Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FHalf-day-Paradise-Valley%2Fd4383-261665P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=57f3f18f237e6906a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=4929764&clt=TD&from=api&nt=true",
+        "price": "$13.12",
+        "roundedUpPrice": "$14",
+        "offerType": null,
+        "title": "The visit of the City of AGADIR (City tour)",
+        "productCode": "261665P5",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/6b/9c/9b.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-City-Tour%2Fd4383-449408P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=f897a7e2903d4b6a5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=4929764&clt=TD&from=api&nt=true",
+        "price": "$16.39",
+        "roundedUpPrice": "$17",
+        "offerType": null,
+        "title": "4 Hours Private Agadir City Tour",
+        "productCode": "449408P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/34/7e/b8.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-City-Tour%2Fd4383-449830P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=242d5008c898171c8&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=4929764&clt=TD&from=api&nt=true",
+        "price": "$21.86",
+        "roundedUpPrice": "$22",
+        "offerType": null,
+        "title": "Agadir City Tour",
+        "productCode": "449830P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/39/28/b3.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-City-Tour%2Fd4383-244867P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=3dc1221622f7bf0b9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=4929764&clt=TD&from=api&nt=true",
+        "price": "$29.15",
+        "roundedUpPrice": "$30",
+        "offerType": null,
+        "title": "Agadir City Tour",
+        "productCode": "244867P6",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/42/7a/39.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Gift & Specialty Shops"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/2d/02/c8/agadir-argan-shop.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/dc/17/ec/agadir-argan-shop.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/0b/4c/02/make-your-products-speak.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "15277785",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping"
+  ],
+  "name": "Souk Berbere Artisanal",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/26/a8/34/d1/caption.jpg",
+  "photoCount": 17,
+  "rankingPosition": 14,
+  "rating": 4,
+  "rawRanking": 2.852658748626709,
+  "phone": "+212 5282-38690",
+  "address": "N 28 Boulevard Abderrahim Bouabid, Agadir Morocco",
+  "addressObj": {
+    "street1": "N 28 Boulevard Abderrahim Bouabid",
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": null
+  },
+  "localName": "‫Souk Berbere Artisanal‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.42301,
+  "longitude": -9.6088,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d15277785-Reviews-Souk_Berbere_Artisanal-Agadir_Souss_Massa.html",
+  "website": "https://www.facebook.com/Souk-berbere-artisanal-146888309009201/",
+  "rankingString": "#14 of 62 Shopping in Agadir",
+  "rankingDenominator": "62",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 0,
+    "count3": 1,
+    "count4": 5,
+    "count5": 4
+  },
+  "numberOfReviews": 11,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F3-in-1-city-tour-half-day-camel-ride-2hours-hammam-massage-2hours%2Fd4383-146273P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d68a3c0c61af7d19a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=15277785&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$0.12",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F3-in-1-city-tour-half-day-camel-ride-2hours-hammam-massage-2hours%2Fd4383-146273P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d68a3c0c61af7d19a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=15277785&clt=TD&from=api&nt=true",
+        "price": "$109.29",
+        "roundedUpPrice": "$110",
+        "offerType": null,
+        "title": "3 in 1 = city tour half day + camel ride 2hours + hammam massage 2hours",
+        "productCode": "146273P22",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/37/f4/ab.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=15277785&clt=TD&from=api&nt=true",
+        "price": "$14.02",
+        "roundedUpPrice": "$15",
+        "offerType": null,
+        "title": "Agadir City Tour - Half Day - Guided By Couscous",
+        "productCode": "146273P4",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/d6.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Quad-Biking%2Fd4383-68347P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=5b2fbc0aa1945eab7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=15277785&clt=TD&from=api&nt=true",
+        "price": "$42.73",
+        "roundedUpPrice": "$43",
+        "offerType": null,
+        "title": "Agadir Quad Biking",
+        "productCode": "68347P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/91/d8/80.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Experience-City-Tour-in-3-Hours%2Fd4383-471627P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=b8f476e51cd3691d2&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=15277785&clt=TD&from=api&nt=true",
+        "price": "$10.93",
+        "roundedUpPrice": "$11",
+        "offerType": null,
+        "title": "Agadir Experience, City Tour in 3 Hours",
+        "productCode": "471627P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/8e/12/f3.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-city-tour-half-day%2Fd4383-354084P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2b73d7fd921355ce7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=15277785&clt=TD&from=api&nt=true",
+        "price": "$17.49",
+        "roundedUpPrice": "$18",
+        "offerType": null,
+        "title": "3-Hour Guided Tour in Agadir City",
+        "productCode": "354084P2",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/23/8b/23.jpg",
+        "description": null,
+        "primaryCategory": "Ports of Call Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Gift & Specialty Shops"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/cb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/79/4f/7a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/d2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/d1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/d0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/cf/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/ce/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/cd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/26/a8/34/cc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/60/76/9c/souk-berbere-artisanal.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/93/e2/07/20190729-163811-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/93/e2/06/20190729-164013-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/93/e2/05/20190729-164053-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/93/e2/04/20190729-164101-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/b3/0c/29/setti-fatma-landscape.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/b3/00/ed/372519736174.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "reviewTags": [],
+  "id": "1191511",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Specialty Lodging"
+  ],
+  "name": "Campement Akka Nait Sidi",
+  "locationString": "Tissint, Guelmim-Oued Noun",
+  "description": "At the VIP traditional touareg Campsite located in Akka Nait Sidi, Tissint (Anti-Atlas), you will have a chance to sleep in the spectacular, traditional, 'Khaima' tents in style (comfortable beds and bedding, showers and toilets on site, dinner tent). The campsite is located in the middle of a beautiful, grandiose and calming desert landscape, that Sylvain and his staff will be delighted to guide you amongst.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/1a/8e/3c/tentes-berberes.jpg",
+  "photoCount": 11,
+  "rankingPosition": 1,
+  "rating": 4,
+  "rawRanking": 3.072657823562622,
+  "phone": null,
+  "address": "Douar Akka Nait Sidi, Tissint 84000 Morocco",
+  "addressObj": {
+    "street1": "Douar Akka Nait Sidi",
+    "street2": "",
+    "city": "Tissint",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "84000"
+  },
+  "localName": "‫Campement Akka Nait Sidi‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": "cans.pat@wanadoo.net.ma",
+  "latitude": 29.90775,
+  "longitude": -7.33681,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1187659-d1191511-Reviews-Campement_Akka_Nait_Sidi-Tissint_Guelmim_Oued_Noun.html",
+  "website": "http://www.cans-akkanaitsidi.com/",
+  "rankingString": "#1 of 1 ranch in Tissint",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1187659",
+      "name": "Tissint",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "2626638",
+      "name": "Guelmim-Oued Noun",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 3,
+    "count3": 2,
+    "count4": 2,
+    "count5": 8
+  },
+  "numberOfReviews": 15,
+  "hotelClass": "0.0",
+  "amenities": [],
+  "priceLevel": "$",
+  "priceRange": "$69 - $92",
+  "roomTips": [],
+  "checkInDate": "2024-09-23",
+  "checkOutDate": "2024-09-24",
+  "numberOfRooms": 16,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 4.9
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.3
+    },
+    {
+      "categoryName": "Value",
+      "score": 4
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1a/8e/3c/tentes-berberes.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/35/40/54/campement-akka-nait-sidi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/35/40/52/campement-akka-nait-sidi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fe/20/1b/img-20200224-085146-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fe/20/1a/img-20200224-085900-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/fe/20/19/img-20200224-085931-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/1a/8e/3b/petit-dejeuner-delicieux.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/e8/4c/8f/campement-akka-nait-sidi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/e8/4c/8d/campement-akka-nait-sidi.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/e8/4c/8b/une-petite-note-fraiche.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/35/40/53/campement-akka-nait-sidi.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "agadir"
+},
+{
+  "id": "12486809",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Mosquee Mohamed V",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/3f/e1/9b/photo3jpg.jpg",
+  "photoCount": 41,
+  "rankingPosition": 35,
+  "rating": 3.5,
+  "rawRanking": 2.780423641204834,
+  "phone": null,
+  "address": "Avenue Du General Kettani Intersection of February 29 Street and General Kettani Avenue, Agadir Morocco",
+  "addressObj": {
+    "street1": "Avenue Du General Kettani",
+    "street2": "Intersection of February 29 Street and General Kettani Avenue",
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": null
+  },
+  "localName": "‫Mosquee Mohamed V‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.422249,
+  "longitude": -9.592772,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d12486809-Reviews-Mosquee_Mohamed_V-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#35 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 1,
+    "count2": 2,
+    "count3": 4,
+    "count4": 7,
+    "count5": 1
+  },
+  "numberOfReviews": 15,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=12486809&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$10.93",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=12486809&clt=TD&from=api&nt=true",
+        "price": "$14.02",
+        "roundedUpPrice": "$15",
+        "offerType": null,
+        "title": "Agadir City Tour - Half Day - Guided By Couscous",
+        "productCode": "146273P4",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/d6.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FFull-Day-Safari-Small-Desert-With-Lunch%2Fd4383-68347P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=52f1a2721a9c5bbf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=12486809&clt=TD&from=api&nt=true",
+        "price": "$37.53",
+        "roundedUpPrice": "$38",
+        "offerType": null,
+        "title": "Full-Day Safari Small Desert With Lunch",
+        "productCode": "68347P6",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/0f/21/8c.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F4-Hour-Kasba-and-City-Tour-in-Agadir%2Fd4383-8667P27%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0a3eca91c14df4eed&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=12486809&clt=TD&from=api&nt=true",
+        "price": "$54.65",
+        "roundedUpPrice": "$55",
+        "offerType": null,
+        "title": "Agadir City Private Guided Tour",
+        "productCode": "8667P27",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/71/55.jpg",
+        "description": null,
+        "primaryCategory": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F3-in-1-city-tour-half-day-camel-ride-2hours-hammam-massage-2hours%2Fd4383-146273P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d68a3c0c61af7d19a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=12486809&clt=TD&from=api&nt=true",
+        "price": "$109.29",
+        "roundedUpPrice": "$110",
+        "offerType": null,
+        "title": "3 in 1 = city tour half day + camel ride 2hours + hammam massage 2hours",
+        "productCode": "146273P22",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/37/f4/ab.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-City-Tour%2Fd4383-221323P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=9672c25d45f0be3de&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=12486809&clt=TD&from=api&nt=true",
+        "price": "$32.79",
+        "roundedUpPrice": "$33",
+        "offerType": null,
+        "title": "Agadir City Tour Discovery ",
+        "productCode": "221323P11",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/ca/92/c2.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Sacred & Religious Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "muslim",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/3f/e1/9b/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/25/0c/fb/fachada.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/62/d6/46/agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/62/d6/42/agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e8/d6/0c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e8/d6/0b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e8/d6/0a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e8/d6/09/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/a7/51/60/mohamad-v-mosque.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/a7/51/53/mohamad-v-mosque.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/a7/51/45/mohamad-v-mosque.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/a7/51/2c/mohamad-v-mosque.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/a7/51/12/mohamad-v-mosque.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/46/47/a8/impressive-mosque.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/3f/e1/a1/photo9jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/3f/e1/a0/photo8jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/3f/e1/9f/photo7jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/3f/e1/9e/photo6jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/3f/e1/9d/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/3f/e1/9c/photo4jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/44/db/90/mosque-mohamed-fifth.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/9f/42/12/stair-case-to-entranceway.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/9f/41/f5/a-little-further.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/9f/41/ea/up-close-view.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "16734257",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping"
+  ],
+  "name": "Uniprix",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/17/5a/e6/5a/img-20190430-195653-largejpg.jpg",
+  "photoCount": 20,
+  "rankingPosition": 16,
+  "rating": 3,
+  "rawRanking": 2.7895662784576416,
+  "phone": null,
+  "address": "Agadir Morocco",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": null
+  },
+  "localName": "‫Uniprix‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d16734257-Reviews-Uniprix-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#16 of 62 Shopping in Agadir",
+  "rankingDenominator": "62",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 4,
+    "count2": 3,
+    "count3": 12,
+    "count4": 11,
+    "count5": 4
+  },
+  "numberOfReviews": 34,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Gift & Specialty Shops"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5a/e6/5a/img-20190430-195653-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5a/e6/59/img-20190430-195534-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5a/e6/58/img-20190430-195343-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/75/3e/41/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e1/85/68/on-trouve-de-tout-dans.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e1/85/67/on-trouve-de-tout-dans.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e1/85/66/on-trouve-de-tout-dans.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/e1/85/65/on-trouve-de-tout-dans.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/97/3e/53/sympatyczne-i-niedrogie.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/97/3e/4f/sympatyczne-i-niedrogie.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/97/3e/4b/sympatyczne-i-niedrogie.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/97/3e/47/sympatyczne-i-niedrogie.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/97/3e/3e/sympatyczne-i-niedrogie.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/0b/51/2d/20200229-231521-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/ff/10/2a/uniprix-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/ff/10/29/uniprix-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/ff/10/21/uniprix-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/ff/10/1c/uniprix-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/46/62/0d/uniprix.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/46/61/cf/uniprix.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/c3/0c/e8/agadir-excursion-agency.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/6c/e4/03/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/6c/e3/82/goats-on-trees.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/ed/66/taroudant-excursion.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/ed/0d/said-manager-agadir-excirsion.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/ec/cb/national-park.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/ec/72/national-park-excursion.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/ec/2c/excursion-to-the-desert.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/eb/f4/fishing-trip.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/eb/94/day-excursion.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/2d/eb/42/souk.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/ea/2d/62/souk-elhad.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/25/80/a2/agadir-excursion.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/06/47/91/the-best-places-in-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/06/47/90/the-best-places-in-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/06/47/8f/the-best-places-in-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/06/47/8e/the-best-places-in-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/06/47/8c/the-best-places-in-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/06/47/8b/the-best-places-in-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/a1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/a0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/9f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/9e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/9d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/9c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/9b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/9a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/99/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/23/1d/4f/98/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/13/50/3a/photo0jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "14901956",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Tours",
+    "Boat Tours & Water Sports",
+    "Outdoor Activities"
+  ],
+  "name": "Agadir Excursion",
+  "locationString": "Agadir, Souss-Massa",
+  "description": "Agadir excursion is a travel agency based in Agadir-morocco. we collect all Morocco’s wonders to enjoy so you research less and do more. Excursions-Tours-Actevities ..",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-w/13/c3/0c/e8/agadir-excursion-agency.jpg",
+  "photoCount": 123,
+  "rankingPosition": 46,
+  "rating": 5,
+  "rawRanking": 2.979458808898926,
+  "phone": "+212 669-449526",
+  "address": "Agadir Morocco",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": null
+  },
+  "localName": "‫Agadir Excursion‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": "contactagadirexcursion@gmail.com.com",
+  "latitude": 30.514637,
+  "longitude": -9.681789,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d14901956-Reviews-Agadir_Excursion-Agadir_Souss_Massa.html",
+  "website": "http://www.agadirexcursion.com",
+  "rankingString": "#46 of 178 Boat Tours & Water Sports in Agadir",
+  "rankingDenominator": "178",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 0,
+    "count4": 1,
+    "count5": 15
+  },
+  "numberOfReviews": 16,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "City Tours",
+    "Boat Tours",
+    "Multi-day Tours",
+    "4WD, ATV & Off-Road Tours",
+    "Sightseeing Tours"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "excursions",
+      "reviews": 4
+    },
+    {
+      "text": "driver",
+      "reviews": 2
+    }
+  ],
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "reviewTags": [
+    {
+      "text": "agadir beach",
+      "reviews": 189
+    },
+    {
+      "text": "lovely beach",
+      "reviews": 147
+    },
+    {
+      "text": "soft sand",
+      "reviews": 56
+    },
+    {
+      "text": "clean beach",
+      "reviews": 92
+    },
+    {
+      "text": "golden sands",
+      "reviews": 29
+    },
+    {
+      "text": "water sports",
+      "reviews": 42
+    },
+    {
+      "text": "long beach",
+      "reviews": 49
+    },
+    {
+      "text": "big waves",
+      "reviews": 25
+    },
+    {
+      "text": "jet ski",
+      "reviews": 32
+    },
+    {
+      "text": "beach front",
+      "reviews": 25
+    },
+    {
+      "text": "sea",
+      "reviews": 376
+    },
+    {
+      "text": "hotel",
+      "reviews": 414
+    },
+    {
+      "text": "promenade",
+      "reviews": 209
+    },
+    {
+      "text": "locals",
+      "reviews": 180
+    },
+    {
+      "text": "football",
+      "reviews": 64
+    },
+    {
+      "text": "tide",
+      "reviews": 61
+    },
+    {
+      "text": "sellers",
+      "reviews": 128
+    },
+    {
+      "text": "paddle",
+      "reviews": 37
+    },
+    {
+      "text": "camel",
+      "reviews": 118
+    },
+    {
+      "text": "skis",
+      "reviews": 31
+    },
+    {
+      "text": "police",
+      "reviews": 59
+    },
+    {
+      "text": "stretch",
+      "reviews": 50
+    },
+    {
+      "text": "surfing",
+      "reviews": 113
+    },
+    {
+      "text": "hassle",
+      "reviews": 61
+    },
+    {
+      "text": "surfers",
+      "reviews": 65
+    },
+    {
+      "text": "holiday",
+      "reviews": 68
+    },
+    {
+      "text": "morocco",
+      "reviews": 69
+    }
+  ],
+  "id": "481060",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks",
+    "Outdoor Activities"
+  ],
+  "name": "Plage d'Agadir",
+  "locationString": "Agadir, Souss-Massa",
+  "description": "This shimmering expanse of breezy coast is dotted with romantic outdoor cafes and water sports activities.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/06/1c/1c/67/agadir-beach.jpg",
+  "photoCount": 2324,
+  "rankingPosition": 4,
+  "rating": 4,
+  "rawRanking": 3.7120699882507324,
+  "phone": null,
+  "address": "Agadir 80000 Morocco",
+  "addressObj": {
+    "street1": null,
+    "street2": "",
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80000"
+  },
+  "localName": "‫Plage d'Agadir‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.409904,
+  "longitude": -9.603164,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d481060-Reviews-Plage_d_Agadir-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#4 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 129,
+    "count2": 163,
+    "count3": 537,
+    "count4": 1402,
+    "count5": 1963
+  },
+  "numberOfReviews": 4194,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=481060&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$10.93",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=481060&clt=TD&from=api&nt=true",
+        "price": "$15.28",
+        "roundedUpPrice": "$16",
+        "offerType": null,
+        "title": "Agadir Taghazout: Paradise Valley & Atlas Mountains Swimming Trip",
+        "productCode": "68347P11",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/87/c6/0d.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Day-Trip-To-Legzira-With-Lunch%2Fd4383-68347P16%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=ac16e312e85819b90&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=481060&clt=TD&from=api&nt=true",
+        "price": "$86.34",
+        "roundedUpPrice": "$87",
+        "offerType": null,
+        "title": "Agadir Day Trip To Legzira With Lunch",
+        "productCode": "68347P16",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/73/d2/54.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=481060&clt=TD&from=api&nt=true",
+        "price": "$14.02",
+        "roundedUpPrice": "$15",
+        "offerType": null,
+        "title": "Agadir City Tour - Half Day - Guided By Couscous",
+        "productCode": "146273P4",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/d6.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FPARADISE-VALLEY-ATLAS-MOUNTAIN%2Fd4383-146273P21%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=ca066680f14ef425e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=481060&clt=TD&from=api&nt=true",
+        "price": "$33.63",
+        "roundedUpPrice": "$34",
+        "offerType": null,
+        "title": "Paradise Valley - Atlas Mountain ",
+        "productCode": "146273P21",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/e0.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FFull-Day-Safari-Small-Desert-With-Lunch%2Fd4383-68347P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=52f1a2721a9c5bbf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=481060&clt=TD&from=api&nt=true",
+        "price": "$37.53",
+        "roundedUpPrice": "$38",
+        "offerType": null,
+        "title": "Full-Day Safari Small Desert With Lunch",
+        "productCode": "68347P6",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/0f/21/8c.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Beaches"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/99/f8/e2/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/fc/d8/a6/surfing-morocco-original.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/70/a1/fd/superbe-plage-doree-en.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/70/a1/fc/superbe-plage-doree-en.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/54/a9/12/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/54/a9/11/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/54/a9/10/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/51/64/94/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/51/64/93/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/3f/4d/ff/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/3f/4d/fe/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/3f/4d/fc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/4e/d6/53/the-point-where-we-had.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/22/47/34/like-a-painting.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/31/46/4f/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7b/7c/agadir-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7b/6d/agadir-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7b/2c/agadir-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/7a/e4/agadir-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f6/79/f1/agadir-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/5f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/5e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/5d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/5c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/5b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/5a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/59/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/07/58/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "4228498",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping"
+  ],
+  "name": "Souk El Had d'Agadir",
+  "locationString": "Agadir, Souss-Massa",
+  "description": "One of the biggest souks in Morocco, this authentic traditional market features over 6,000 shops spread over 13 hectares in the center of Agadir. Souk El Had draws crowds of locals and travelers to its troves of spices, fruit, furniture and clothing. Here, you can purchase grade-A argan oil, bargain when buying fine leather goods and enjoy the best Moroccan mint tea in the city. The market is open on most days of the week—be sure to check before you go. You might want to join historic and cultural tours of Agadir which typically include this bustling souk in their itineraries. – Tripadvisor",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/15/a9/fc/be/souk-el-had-d-agadir.jpg",
+  "photoCount": 1867,
+  "rankingPosition": 3,
+  "rating": 4,
+  "rawRanking": 3.7758259773254395,
+  "phone": null,
+  "address": "Rue 2 Mars, Agadir 80090 Morocco",
+  "addressObj": {
+    "street1": "Rue 2 Mars",
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80090"
+  },
+  "localName": "‫Souk El Had d'Agadir‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.412844,
+  "longitude": -9.579752,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d4228498-Reviews-Souk_El_Had_d_Agadir-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#3 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 67,
+    "count2": 68,
+    "count3": 320,
+    "count4": 878,
+    "count5": 982
+  },
+  "numberOfReviews": 2315,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-City-Tour-Sightseeing-and-Discovery-With-Hotel-and-Port-Transfers%2Fd4383-134309P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=e8e3c5c865428263a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=4228498&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$10.93",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-City-Tour-Sightseeing-and-Discovery-With-Hotel-and-Port-Transfers%2Fd4383-134309P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=e8e3c5c865428263a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=4228498&clt=TD&from=api&nt=true",
+        "price": "$21.86",
+        "roundedUpPrice": "$22",
+        "offerType": null,
+        "title": "Explore Agadir Souk El Had With a Licensed Tour Guide",
+        "productCode": "134309P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/12/26/8c/27.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Tour%2Fd4383-44639P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=610bf94d0a87c9fec&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=4228498&clt=TD&from=api&nt=true",
+        "price": "$18.58",
+        "roundedUpPrice": "$19",
+        "offerType": null,
+        "title": "Agadir Half-Day Tour",
+        "productCode": "44639P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/e6/02/55.jpg",
+        "description": null,
+        "primaryCategory": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=4228498&clt=TD&from=api&nt=true",
+        "price": "$15.28",
+        "roundedUpPrice": "$16",
+        "offerType": null,
+        "title": "Agadir Taghazout: Paradise Valley & Atlas Mountains Swimming Trip",
+        "productCode": "68347P11",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/87/c6/0d.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F3-in-1-city-tour-half-day-camel-ride-2hours-hammam-massage-2hours%2Fd4383-146273P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d68a3c0c61af7d19a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=4228498&clt=TD&from=api&nt=true",
+        "price": "$109.29",
+        "roundedUpPrice": "$110",
+        "offerType": null,
+        "title": "3 in 1 = city tour half day + camel ride 2hours + hammam massage 2hours",
+        "productCode": "146273P22",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/37/f4/ab.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F5-Hour-Sightseeing-tour-of-Agadir%2Fd4383-8667P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=3125f78a93b3ad98a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=4228498&clt=TD&from=api&nt=true",
+        "price": "$54.65",
+        "roundedUpPrice": "$55",
+        "offerType": null,
+        "title": "Private Agadir City Tour",
+        "productCode": "8667P2",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/75/84/6b.jpg",
+        "description": null,
+        "primaryCategory": "City Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Flea & Street Markets"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "stall holders",
+      "reviews": 32
+    },
+    {
+      "text": "closed on mondays",
+      "reviews": 14
+    },
+    {
+      "text": "live animals",
+      "reviews": 9
+    },
+    {
+      "text": "leather goods",
+      "reviews": 21
+    },
+    {
+      "text": "asking price",
+      "reviews": 20
+    },
+    {
+      "text": "stalls selling",
+      "reviews": 19
+    },
+    {
+      "text": "worth a visit",
+      "reviews": 41
+    },
+    {
+      "text": "big market",
+      "reviews": 13
+    },
+    {
+      "text": "for sale",
+      "reviews": 19
+    },
+    {
+      "text": "argan oil",
+      "reviews": 36
+    },
+    {
+      "text": "few hours",
+      "reviews": 28
+    },
+    {
+      "text": "take your time",
+      "reviews": 9
+    },
+    {
+      "text": "taxi driver",
+      "reviews": 16
+    },
+    {
+      "text": "moroccan tea",
+      "reviews": 9
+    },
+    {
+      "text": "tagine",
+      "reviews": 11
+    },
+    {
+      "text": "spicy",
+      "reviews": 155
+    },
+    {
+      "text": "bargain",
+      "reviews": 77
+    },
+    {
+      "text": "shop",
+      "reviews": 75
+    },
+    {
+      "text": "marrakech",
+      "reviews": 81
+    },
+    {
+      "text": "barter",
+      "reviews": 46
+    },
+    {
+      "text": "shoes",
+      "reviews": 48
+    },
+    {
+      "text": "locals",
+      "reviews": 83
+    },
+    {
+      "text": "veg",
+      "reviews": 29
+    },
+    {
+      "text": "souvenirs",
+      "reviews": 50
+    },
+    {
+      "text": "sellers",
+      "reviews": 69
+    },
+    {
+      "text": "stallholders",
+      "reviews": 11
+    },
+    {
+      "text": "clothing",
+      "reviews": 31
+    },
+    {
+      "text": "hassle",
+      "reviews": 43
+    },
+    {
+      "text": "culture",
+      "reviews": 33
+    },
+    {
+      "text": "trainers",
+      "reviews": 13
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/ef/9d/69/20180724-174310-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/9a/6d/e5/the-souk.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/9a/6d/9f/the-souk.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/9a/6d/5a/the-souk.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/9a/6c/f3/the-souk.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/76/b3/29/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/76/b3/28/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/76/b3/27/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/76/b3/26/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5a/bd/08/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5a/bd/07/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5a/bd/06/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/07/a5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/49/07/a4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/eb/89/3f/olijven.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/eb/89/23/een-van-de-poorten-naar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/49/7d/8e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/25/36/22/57/bazar.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1c/11/c3/9a/les-grenades.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/31/af/88/img-20200212-183459-393.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/e5/c4/29/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/e5/c4/27/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "1869792",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Seafront Promenade",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/07/5c/99/81/seafront-promenade.jpg",
+  "photoCount": 1688,
+  "rankingPosition": 2,
+  "rating": 4.5,
+  "rawRanking": 3.8910069465637207,
+  "phone": null,
+  "address": "Route de L'Oued Sous, Agadir 80000 Morocco",
+  "addressObj": {
+    "street1": "Route de L'Oued Sous",
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80000"
+  },
+  "localName": "‫Seafront Promenade‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.39967,
+  "longitude": -9.583256,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d1869792-Reviews-Seafront_Promenade-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#2 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 51,
+    "count2": 104,
+    "count3": 541,
+    "count4": 1912,
+    "count5": 2591
+  },
+  "numberOfReviews": 5199,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1869792&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$10.93",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1869792&clt=TD&from=api&nt=true",
+        "price": "$15.28",
+        "roundedUpPrice": "$16",
+        "offerType": null,
+        "title": "Agadir Taghazout: Paradise Valley & Atlas Mountains Swimming Trip",
+        "productCode": "68347P11",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/87/c6/0d.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1869792&clt=TD&from=api&nt=true",
+        "price": "$14.02",
+        "roundedUpPrice": "$15",
+        "offerType": null,
+        "title": "Agadir City Tour - Half Day - Guided By Couscous",
+        "productCode": "146273P4",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/d6.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FFull-Day-Safari-Small-Desert-With-Lunch%2Fd4383-68347P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=52f1a2721a9c5bbf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1869792&clt=TD&from=api&nt=true",
+        "price": "$37.53",
+        "roundedUpPrice": "$38",
+        "offerType": null,
+        "title": "Full-Day Safari Small Desert With Lunch",
+        "productCode": "68347P6",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/0f/21/8c.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FPARADISE-VALLEY-ATLAS-MOUNTAIN%2Fd4383-146273P21%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=ca066680f14ef425e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=1869792&clt=TD&from=api&nt=true",
+        "price": "$33.63",
+        "roundedUpPrice": "$34",
+        "offerType": null,
+        "title": "Paradise Valley - Atlas Mountain ",
+        "productCode": "146273P21",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/e0.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FMarrakech-The-History-and-Culture-Day-Trip%2Fd4383-71280P23%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d52bd005d70b39f7b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=1869792&clt=TD&from=api&nt=true",
+        "price": "$54.65",
+        "roundedUpPrice": "$55",
+        "offerType": null,
+        "title": "Marrakech The History and Culture Day Trip",
+        "productCode": "71280P23",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/ec/63/55.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Points of Interest & Landmarks"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "nice walk",
+      "reviews": 142
+    },
+    {
+      "text": "sea front",
+      "reviews": 71
+    },
+    {
+      "text": "shops and restaurants",
+      "reviews": 49
+    },
+    {
+      "text": "sellers",
+      "reviews": 218
+    },
+    {
+      "text": "hotel",
+      "reviews": 360
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/7c/9b/df/la-promenade-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/a0/07/a6/promanade-loking-towards.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/c8/02/f9/golden-sands-of-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/c8/02/9e/camels-on-the-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/8e/a3/76/dsc08603-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/ed/b0/e1/img-20190101-000203-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/b9/93/81/20180917-193633-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/f7/ac/fc/img-20180514-102954-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/20/40/6b/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/20/40/6a/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/20/3e/82/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/20/3e/81/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c6/1a/a5/seafront-promenade-in.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c6/1a/79/seafront-promenade-at.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c0/52/35/mvimg-20171231-162352.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/c0/52/33/mvimg-20171231-162038.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/a5/6f/63/towards-the-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/09/95/5b/bc/seafront-promenade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/79/4d/08/beach-agadir-best-destination.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/79/4b/f9/seafront-promenade.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bb/f7/75/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/bb/f7/74/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/fa/da/96/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/fa/da/95/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/fa/da/94/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/fa/da/93/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/fa/da/92/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/fa/da/91/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/82/3d/0f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/82/3d/0e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/82/3d/0d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/82/3d/0c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/82/3d/0b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/82/3d/0a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/47/95/2b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/47/95/2a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/47/95/29/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/72/d5/d0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/72/d5/cf/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/72/d5/ce/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "8092332",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Paradise Valley Agadir",
+  "locationString": "Agadir, Souss-Massa",
+  "description": "Paradise Valley is a breathtaking oasis nestled in the High Atlas Mountains near Agadir, Morocco. This serene haven is renowned for its stunning natural beauty, characterized by lush greenery, palm trees, cascading waterfalls, and crystal-clear natural pools. Visitors can hike along scenic trails, swim in the refreshing rock pools, and revel in the tranquil atmosphere, making it an ideal retreat for nature lovers and those seeking a peaceful escape from city life.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/2a/f8/d7/58/paradise.jpg",
+  "photoCount": 1584,
+  "rankingPosition": 11,
+  "rating": 4,
+  "rawRanking": 3.245260238647461,
+  "phone": "+212 768-859713",
+  "address": "Agadir 80000 Morocco",
+  "addressObj": {
+    "street1": null,
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80000"
+  },
+  "localName": "‫Paradise Valley Agadir‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": "contact@paradisevalley-agadir.com",
+  "latitude": 30.58775,
+  "longitude": -9.52818,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d8092332-Reviews-Paradise_Valley_Agadir-Agadir_Souss_Massa.html",
+  "website": "http://paradisevalley-agadir.com",
+  "rankingString": "#11 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 117,
+    "count2": 124,
+    "count3": 187,
+    "count4": 382,
+    "count5": 537
+  },
+  "numberOfReviews": 1347,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FParadise-Valley-Excursion%2Fd4383-146019P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=6180dbadf4570cf67&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=8092332&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$13.99",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FParadise-Valley-Excursion%2Fd4383-146019P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=6180dbadf4570cf67&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=8092332&clt=TD&from=api&nt=true",
+        "price": "$14.75",
+        "roundedUpPrice": "$15",
+        "offerType": null,
+        "title": "Paradise valley excursion",
+        "productCode": "146019P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/82/aa/3e.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FParadise-Valley-Guided-Day-Trip-from-Agadir%2Fd4383-8667P30%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=749c639307a8c2091&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=8092332&clt=TD&from=api&nt=true",
+        "price": "$65.58",
+        "roundedUpPrice": "$66",
+        "offerType": null,
+        "title": "High Atlas Mountains And The Local old Market Private Day Tour",
+        "productCode": "8667P30",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0b/91/7c/71.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FExcursion-Paradise-Valley%2Fd4383-219958P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=3ef41610e2830ba40&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=8092332&clt=TD&from=api&nt=true",
+        "price": "$16.39",
+        "roundedUpPrice": "$17",
+        "offerType": null,
+        "title": "Agadir Paradise Valley Guided Tour Swimming Breakfast & Lunch",
+        "productCode": "219958P22",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/47/28/d2.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=8092332&clt=TD&from=api&nt=true",
+        "price": "$15.28",
+        "roundedUpPrice": "$16",
+        "offerType": null,
+        "title": "Agadir Taghazout: Paradise Valley & Atlas Mountains Swimming Trip",
+        "productCode": "68347P11",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/87/c6/0d.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FParadise-Valley%2Fd4383-107652P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=7163de6ef8c745f1c&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=8092332&clt=TD&from=api&nt=true",
+        "price": "$22.73",
+        "roundedUpPrice": "$23",
+        "offerType": null,
+        "title": "Paradise Valley Trekking",
+        "productCode": "107652P5",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/ac/00/96.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Valleys",
+    "Nature & Wildlife Areas",
+    "Waterfalls"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "dry season",
+      "reviews": 6
+    },
+    {
+      "text": "wear trainers",
+      "reviews": 10
+    },
+    {
+      "text": "natural beauty",
+      "reviews": 6
+    },
+    {
+      "text": "beautiful scenery",
+      "reviews": 13
+    },
+    {
+      "text": "palm trees",
+      "reviews": 10
+    },
+    {
+      "text": "argan oil",
+      "reviews": 19
+    },
+    {
+      "text": "day trip",
+      "reviews": 18
+    },
+    {
+      "text": "worth the trip",
+      "reviews": 6
+    },
+    {
+      "text": "tagine",
+      "reviews": 11
+    },
+    {
+      "text": "mint tea",
+      "reviews": 7
+    },
+    {
+      "text": "hike",
+      "reviews": 52
+    },
+    {
+      "text": "rocks",
+      "reviews": 54
+    },
+    {
+      "text": "oasis",
+      "reviews": 21
+    },
+    {
+      "text": "drought",
+      "reviews": 6
+    },
+    {
+      "text": "locals",
+      "reviews": 39
+    },
+    {
+      "text": "path",
+      "reviews": 15
+    },
+    {
+      "text": "honey",
+      "reviews": 12
+    },
+    {
+      "text": "route",
+      "reviews": 14
+    },
+    {
+      "text": "cooperative",
+      "reviews": 6
+    },
+    {
+      "text": "morocco",
+      "reviews": 31
+    },
+    {
+      "text": "atlas",
+      "reviews": 7
+    },
+    {
+      "text": "berber",
+      "reviews": 9
+    },
+    {
+      "text": "taghazout",
+      "reviews": 9
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f8/d7/58/paradise.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f5/a2/1a/paradise.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f8/d7/60/paradise.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f5/a2/63/paradise.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/f5/a2/61/paradise.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/93/e0/e9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/93/e0/e8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/7e/02/d2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/6c/f6/09/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/6c/f6/08/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/6c/f6/07/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/52/a9/79/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/52/a9/78/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c3/9f/fe/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c3/9f/fd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c3/9f/fc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c3/9f/fb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c3/9f/fa/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c3/9f/f9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c0/af/9f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c0/af/9e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c0/af/9d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c0/af/9c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/c0/af/9b/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "17277610",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Tours",
+    "Other",
+    "Transportation",
+    "Outdoor Activities"
+  ],
+  "name": "Agadir Activities",
+  "locationString": "Agadir, Souss-Massa",
+  "description": "Agadir Activities is a Moroccan travel company, specializing in Morocco Private Tours,Holidays in Morocco,Desert tours Morocco cultural, educational,nature-based tours for travelers in English,French, Arabic languages.Our extensive range of tours all over Morocco features the highlights and hidden delights of the Moroccan Territory.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/f8/e7/aa/caption.jpg",
+  "photoCount": 41,
+  "rankingPosition": 19,
+  "rating": 5,
+  "rawRanking": 3.78300142288208,
+  "phone": "+212 609-339748",
+  "address": "Residence Fleurie, Av Hassan 2, Agadir 80000 Morocco",
+  "addressObj": {
+    "street1": "Residence Fleurie, Av Hassan 2",
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80000"
+  },
+  "localName": "‫Agadir Activities‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": "agadiractivities2019@gmail.com",
+  "latitude": 31.626274,
+  "longitude": -7.989283,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d17277610-Reviews-Agadir_Activities-Agadir_Souss_Massa.html",
+  "website": "http://agadiractivities.com/",
+  "rankingString": "#19 of 199 Transportation in Agadir",
+  "rankingDenominator": "199",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 1,
+    "count4": 3,
+    "count5": 80
+  },
+  "numberOfReviews": 86,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FSmall-Sahara-Jeep-Safari-Tour%2Fd4383-138800P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=38cd75941eb640cfe&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=17277610&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$0.24",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FSmall-Sahara-Jeep-Safari-Tour%2Fd4383-138800P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=38cd75941eb640cfe&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=17277610&clt=TD&from=api&nt=true",
+        "price": "$60.11",
+        "roundedUpPrice": "$61",
+        "offerType": null,
+        "title": "4×4 Jeep Desert Safari Tour with Lunch and Camel Ride",
+        "productCode": "138800P5",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/e3/61/80.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FHalf-Day-QuadBiking-Adventure-In-Agadir%2Fd4383-138800P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=26860a6f6e7b2da9b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=17277610&clt=TD&from=api&nt=true",
+        "price": "$92.90",
+        "roundedUpPrice": "$93",
+        "offerType": null,
+        "title": "Quad Biking and Camel Ride Experience",
+        "productCode": "138800P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/08/8b/24.jpg",
+        "description": null,
+        "primaryCategory": "Nature & Wildlife"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FDiscover-Paradise-Valley%2Fd4383-138800P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=455a4a10873a81bcb&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=17277610&clt=TD&from=api&nt=true",
+        "price": "$21.86",
+        "roundedUpPrice": "$22",
+        "offerType": null,
+        "title": "Paradise Valley Half day Experience",
+        "productCode": "138800P4",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/89/db/3a.jpg",
+        "description": null,
+        "primaryCategory": "Hiking & Camping"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Jet-ski-Tour%2Fd4383-138800P7%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=44b4ac32579f478e4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=17277610&clt=TD&from=api&nt=true",
+        "price": "$87.44",
+        "roundedUpPrice": "$88",
+        "offerType": null,
+        "title": " Agadir National Park & 4×4 Jeep Desert Safari Tour with Lunch",
+        "productCode": "138800P7",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/8a/e4/db.jpg",
+        "description": null,
+        "primaryCategory": "Nature & Wildlife"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FHalf-Day-Buggy-Adventure-in-Agadir%2Fd4383-138800P3%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0a8e63b3b8e020286&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=17277610&clt=TD&from=api&nt=true",
+        "price": "$49.18",
+        "roundedUpPrice": "$50",
+        "offerType": null,
+        "title": "4×4 Jeep Sahara Desert Tour with Lunch & Hotel Transfers",
+        "productCode": "138800P3",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/11/62/bb/67.jpg",
+        "description": null,
+        "primaryCategory": "Nature & Wildlife"
+      }
+    ]
+  },
+  "subtype": [
+    "Multi-day Tours",
+    "4WD, ATV & Off-Road Tours",
+    "Adrenaline & Extreme Tours",
+    "Taxis & Shuttles",
+    "Bike Tours",
+    "Private Tours",
+    "Nature & Wildlife Tours",
+    "Bus Tours",
+    "Horseback Riding Tours",
+    "Day Trips"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "camel ride",
+      "reviews": 2
+    },
+    {
+      "text": "hotel",
+      "reviews": 4
+    },
+    {
+      "text": "beach",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f8/e7/aa/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/6f/2c/65.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/12.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/13.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/15.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/18.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/19.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/1a.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/1c.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/1d.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/1e.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/1f.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/20.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/23.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/25.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/26.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/27.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/29.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/2a.jpg",
+    "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/0e/1f/99/2b.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/6b/fa/d7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/3a/f4/4c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/3a/f4/4b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/3a/f4/4a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/aa/70/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/aa/6f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/aa/6e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/aa/6d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/a9/ae/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/a9/ac/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/a9/ab/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/24/a9/aa/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c7/00/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c6/ce/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c6/cd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c6/cc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c6/cb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c6/ca/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c6/c9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/89/c6/c8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/cb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/ca/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c9/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/22/44/c2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/d0/73/ae/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2a/d0/73/92/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "481087",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks",
+    "Outdoor Activities"
+  ],
+  "name": "Taghazout Beach",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0e/22/6b/3d/20161128-165031-largejpg.jpg",
+  "photoCount": 568,
+  "rankingPosition": 6,
+  "rating": 4,
+  "rawRanking": 3.4598758220672607,
+  "phone": null,
+  "address": "Agadir 80022 Morocco",
+  "addressObj": {
+    "street1": null,
+    "street2": "",
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80022"
+  },
+  "localName": "‫Taghazout Beach‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.543558,
+  "longitude": -9.708941,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d481087-Reviews-Taghazout_Beach-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#6 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 73,
+    "count2": 45,
+    "count3": 107,
+    "count4": 297,
+    "count5": 349
+  },
+  "numberOfReviews": 871,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=481087&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$0.16",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Half-Day-Trip-To-Paradise-Valley%2Fd4383-68347P11%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2ccf3334f08bf8282&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=481087&clt=TD&from=api&nt=true",
+        "price": "$15.28",
+        "roundedUpPrice": "$16",
+        "offerType": null,
+        "title": "Agadir Taghazout: Paradise Valley & Atlas Mountains Swimming Trip",
+        "productCode": "68347P11",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/87/c6/0d.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-Sunset-Camel-Ride-in-Taghazout-with-Diner-and-shutlle-bus-included%2Fd4383-146019P41%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=dad25937a4031a757&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=481087&clt=TD&from=api&nt=true",
+        "price": "$38.25",
+        "roundedUpPrice": "$39",
+        "offerType": null,
+        "title": " Sunset Camel Riding + barbecue B&B grill with abdo",
+        "productCode": "146019P41",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/82/03.jpg",
+        "description": null,
+        "primaryCategory": "Dining Experiences"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FMARRAKECH-and-ESSAOUIRA-IN-2-DAY-DEPARTURE-AGADIR%2Fd4383-146273P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=b8643917911dc06dd&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=481087&clt=TD&from=api&nt=true",
+        "price": "$133.96",
+        "roundedUpPrice": "$134",
+        "offerType": null,
+        "title": "Marrakech & Essaouira = 2 Days Trip From Agadir",
+        "productCode": "146273P2",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/82/a9/e5.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FSunset-Camel-Ride-in-Agadir-With-Transfers%2Fd4383-68347P7%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=cbc8c0b22a732bd41&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=481087&clt=TD&from=api&nt=true",
+        "price": "$16.61",
+        "roundedUpPrice": "$17",
+        "offerType": null,
+        "title": "Sunset Camel Ride in Agadir or Taghazout With Transfers",
+        "productCode": "68347P7",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/9e/b5/39.jpg",
+        "description": null,
+        "primaryCategory": "Nature & Wildlife"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FHalf-day-tour-to-explore-the-amazing-village-of-Taghazout%2Fd4383-126544P29%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=b64e32d02c06f3b73&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=481087&clt=TD&from=api&nt=true",
+        "price": "$37.53",
+        "roundedUpPrice": "$38",
+        "offerType": null,
+        "title": "Half day tour to explore the amazing village of Taghazout",
+        "productCode": "126544P29",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0a/99/e3/87.jpg",
+        "description": null,
+        "primaryCategory": "Bus & Minivan Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Beaches"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "great waves",
+      "reviews": 6
+    },
+    {
+      "text": "surfers",
+      "reviews": 54
+    },
+    {
+      "text": "apartment",
+      "reviews": 12
+    },
+    {
+      "text": "hotel",
+      "reviews": 28
+    },
+    {
+      "text": "sand",
+      "reviews": 21
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a5/ec/69/taghazout-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/88/ae/b4/taghazout-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/83/2a/8a/surf-berbere-terrace.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/83/2a/8b/taghazout-surfing.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/83/2a/89/surf-berbere-house.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/88/ae/b5/taghazout-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/42/de/a5/balade-de-qaud-taghazout.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/42/de/a4/balade-de-qaud-taghazout.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/3f/fe/04/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/1b/93/28/small-beach-of-taghazout.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a5/ec/70/taghazout-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a5/ec/6d/taghazout-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/7e/82/0d/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/08/f7/6f/20180806-174342-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/5c/23/f2/view-from-our-surf-house.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/5c/23/d5/peacefulness-take-me.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/53/d0/36/taghazout-beach.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/43/f6/bc/beautiful-taghazout.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/b2/b1/70/20180419-120047-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/2a/0f/bf/img-20170722-122457-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/20/7b/74/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/20/7b/73/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/20/7b/72/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/20/7b/71/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/7c/fe/3b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/7c/fe/3a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/7c/fe/39/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/54/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/53/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/52/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/51/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/50/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/4f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/4e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/1b/eb/4d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/90/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/8f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/8e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/8d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/8c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/8b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/8a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/c4/89/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/58/c7/95/morning-in-the-gardens.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/58/c7/91/at-the-swimming-pool.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "reviewTags": [
+    {
+      "text": "dh",
+      "reviews": 5
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/0c/84/ea/70/agadir-fishing-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/25/f0/98/agadir-fishing-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/dc/a4/2e/a-lot-of-fish-with-bread.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/47/0b/e0/haven.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/47/0b/c7/haven.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/53/31/31/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0e/9f/07/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/0e/9f/06/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0f/56/ee/19/agadir-fishing-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/37/cc/c8/no27-restaurant-de-poisson.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0b/6a/39/20/port-rybacki.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/5a/3a/54/agadir-fishing-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/04/a0/b1/34/agadir-fishing-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/40/d3/61/the-port-in-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/39/12/37/la-criee.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/66/e2/b5/beautiful-agadir-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/f3/0e/9c/agadir-fishing-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/05/2b/8a/80/agadir-fishing-port.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/01/7e/84/34/marinha-de-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/24/79/a2/5e/port-de-poisson-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/a3/img-20190502-131930-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/a2/img-20190502-132934-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/a0/img-20190502-132754-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/9f/img-20190502-132555-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/9e/img-20190502-132550-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/9c/img-20190502-132531-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/9b/img-20190502-132528-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/9a/img-20190502-132448-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/99/img-20190502-132438-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/5f/80/98/img-20190502-132415-largejpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "id": "318066",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Agadir Fishing Port",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/0a/0e/da/46/agadir-fishing-port.jpg",
+  "photoCount": 339,
+  "rankingPosition": 16,
+  "rating": 3.5,
+  "rawRanking": 3.029428482055664,
+  "phone": null,
+  "address": "Avenue du Port, Agadir Morocco",
+  "addressObj": {
+    "street1": "Avenue du Port",
+    "street2": "",
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": null
+  },
+  "localName": "‫Agadir Fishing Port‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.41293,
+  "longitude": -9.56594,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d318066-Reviews-Agadir_Fishing_Port-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#16 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 70,
+    "count2": 48,
+    "count3": 129,
+    "count4": 205,
+    "count5": 158
+  },
+  "numberOfReviews": 610,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FFull-Day-Safari-Small-Desert-With-Lunch%2Fd4383-68347P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=52f1a2721a9c5bbf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=318066&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$0.19",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FFull-Day-Safari-Small-Desert-With-Lunch%2Fd4383-68347P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=52f1a2721a9c5bbf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=318066&clt=TD&from=api&nt=true",
+        "price": "$37.53",
+        "roundedUpPrice": "$38",
+        "offerType": null,
+        "title": "Full-Day Safari Small Desert With Lunch",
+        "productCode": "68347P6",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/0f/21/8c.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FPARADISE-VALLEY-ATLAS-MOUNTAIN%2Fd4383-146273P21%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=ca066680f14ef425e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=318066&clt=TD&from=api&nt=true",
+        "price": "$33.63",
+        "roundedUpPrice": "$34",
+        "offerType": null,
+        "title": "Paradise Valley - Atlas Mountain ",
+        "productCode": "146273P21",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/e0.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F3-in-1-city-tour-half-day-camel-ride-2hours-hammam-massage-2hours%2Fd4383-146273P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d68a3c0c61af7d19a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=318066&clt=TD&from=api&nt=true",
+        "price": "$109.29",
+        "roundedUpPrice": "$110",
+        "offerType": null,
+        "title": "3 in 1 = city tour half day + camel ride 2hours + hammam massage 2hours",
+        "productCode": "146273P22",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/37/f4/ab.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F2-Hour-Camel-Ride%2Fd4383-68347P2%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=e71ee5f5443e12db9&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=318066&clt=TD&from=api&nt=true",
+        "price": "$16.94",
+        "roundedUpPrice": "$17",
+        "offerType": null,
+        "title": "2 Hour Camel Ride From Agadir or Taghazout",
+        "productCode": "68347P2",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/4e/8b/5d.jpg",
+        "description": null,
+        "primaryCategory": "Nature & Wildlife"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FSunset-Camel-Ride-in-Agadir-With-Transfers%2Fd4383-68347P7%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=cbc8c0b22a732bd41&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=318066&clt=TD&from=api&nt=true",
+        "price": "$16.61",
+        "roundedUpPrice": "$17",
+        "offerType": null,
+        "title": "Sunset Camel Ride in Agadir or Taghazout With Transfers",
+        "productCode": "68347P7",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0e/9e/b5/39.jpg",
+        "description": null,
+        "primaryCategory": "Nature & Wildlife"
+      }
+    ]
+  },
+  "subtype": [
+    "Points of Interest & Landmarks"
+  ],
+  "isNearbyResult": false,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "479333",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Anti-Atlas Mountains",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/00/12/0b/dd/stunning-views-of-the.jpg",
+  "photoCount": 59,
+  "rankingPosition": 20,
+  "rating": 4.5,
+  "rawRanking": 2.9009017944335938,
+  "phone": null,
+  "address": "Agadir Morocco",
+  "addressObj": {
+    "street1": "",
+    "street2": "",
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": ""
+  },
+  "localName": "‫Anti-Atlas Mountains‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": null,
+  "longitude": null,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d479333-Reviews-Anti_Atlas_Mountains-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#20 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 0,
+    "count2": 0,
+    "count3": 1,
+    "count4": 4,
+    "count5": 12
+  },
+  "numberOfReviews": 17,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMarrakech%2F2-Days-1-Night-To-Zagora-Desert-From-Marrakech%2Fd5408-90460P13%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=105a50479ef023c83&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=479333&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$14.59",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMarrakech%2F2-Days-1-Night-To-Zagora-Desert-From-Marrakech%2Fd5408-90460P13%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=105a50479ef023c83&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=479333&clt=TD&from=api&nt=true",
+        "price": "$92.90",
+        "roundedUpPrice": "$93",
+        "offerType": null,
+        "title": "2 Days 1 Night To Zagora Desert From Marrakech",
+        "productCode": "90460P13",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/ef/ef/aa.jpg",
+        "description": null,
+        "primaryCategory": "Multi-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMarrakech%2FSahara-Desert-4-Day-Tour-from-Marrakech%2Fd5408-14465P13%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=943aadafbefb79914&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=479333&clt=TD&from=api&nt=true",
+        "price": "$480.00",
+        "roundedUpPrice": "$480",
+        "offerType": null,
+        "title": "4-Days private desert tour from Marrakech",
+        "productCode": "14465P13",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/13/c1/fb/c9.jpg",
+        "description": null,
+        "primaryCategory": "4WD, ATV & Off-Road Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FOuarzazate%2FZagora-Desert-and-Draa-Valley-Day-Trip-From-Ouarzazate%2Fd23956-18820P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=9c49ad82a40d231de&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=479333&clt=TD&from=api&nt=true",
+        "price": "$139.04",
+        "roundedUpPrice": "$140",
+        "offerType": null,
+        "title": "Zagora Desert and Draa Valley Day Trip From Ouarzazate",
+        "productCode": "18820P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6b/96/83.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMarrakech%2F4-Day-Sahara-Desert-Tour-to-Zagora-and-Merzouga-from-Marrakech-Including-the-Atlas-Mountains%2Fd5408-7674SAHARA%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=236838f405d82a637&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=479333&clt=TD&from=api&nt=true",
+        "price": "$402.20",
+        "roundedUpPrice": "$403",
+        "offerType": null,
+        "title": "4-Day Sahara Desert Tour to Zagora and Merzouga from Marrakech ",
+        "productCode": "7674SAHARA",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/9e/bf.jpg",
+        "description": null,
+        "primaryCategory": "Multi-day Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FMarrakech%2FMorocco-Trips-Marrakech-ExcursionsSaharaEssaouiraFesChefchaouen%2Fd5408-148265P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d7dd1100955b18102&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=479333&clt=TD&from=api&nt=true",
+        "price": "$81.61",
+        "roundedUpPrice": "$82",
+        "offerType": null,
+        "title": "Zagoura Desert 2 Days 1 Night include B&B, Lunch ,transport ,Tent ,Camel Ride ",
+        "productCode": "148265P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0f/18/0d/c1.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Geologic Formations"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "berber",
+      "reviews": 2
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/ae/04/22/anti-atlas-mountains.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/5e/d9/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/06/3b/77/tafraoute-trek-with-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/06/3b/51/tafraoute-trek-with-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/59/4d/98/anti-atlas-mountains.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/02/0b/77/ae/anti-atlas-mountains.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/00/12/0b/de/and-camping-by-an-oasis.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/29/b9/7d/d5/je-suis-dans-le-sommet.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/27/d1/33/b7/wencome-to-morocco.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/21/a9/23/0e/un-viaje-al-desconocido.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/54/e5/78/one-of-two-stone-huts.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1b/54/dc/2c/the-canyon-below-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/cb/bf/0d/avec-stephane-dans-les.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/cb/bf/0c/avec-stephane-a-tizgui.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/cb/bf/0b/excursions-de-3-jours.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/88/eb/f0/look-forward.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/54/91/86/a-l-ombre-de-l-arganier.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/54/91/2b/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/19/54/90/f1/aux-environs-d-aday.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a7/0d/9e/photo3jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a7/0d/9d/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a7/0d/9c/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/a7/0d/9b/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/63/b8/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/63/7d/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/62/d1/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/61/f7/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/61/4a/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/60/f2/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/60/71/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/5f/f3/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/5f/6c/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/5e/54/anti-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/5d/c1/atlas-viewed-from-anti.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/37/5d/33/atlas-viewed-from-anti.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/06/3b/83/tafraoute-trek-with-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/06/3b/7d/tafraoute-trek-with-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/06/3b/4f/tafraoute-trek-with-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/06/3b/4d/tafraoute-trek-with-atlas.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/ae/04/52/anti-atlas-mountains.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/ae/03/c0/anti-atlas-mountains.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/08/ae/03/64/anti-atlas-mountains.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/59/4d/64/anti-atlas-mountains.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/03/59/4c/fd/anti-atlas-mountains.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "reviewTags": [],
+  "id": "12801688",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Shopping",
+    "Museums"
+  ],
+  "name": "UpcycleMo",
+  "locationString": "Agadir, Souss-Massa",
+  "description": "UpcycleMo, is à social co-operative that sustainably transforms tires into trendy decor objects as well as into indoor and outdoor furniture. It is our life dream, through which we aim to improve the social, economic and environmental well-being of our community. UpcycleMo est une coopérative de développement durable, qui transforme les déchets de pneus en objets de décoration tendance, ainsi qu'en mobilier d'intérieur et d'extérieur. C'est notre rêve de vie, à travers lequel nous visons à améliorer le bien-être social, économique et environnemental de notre communauté.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/10/b1/eb/50/bienvenue-chez-upcyclemo.jpg",
+  "photoCount": 66,
+  "rankingPosition": 3,
+  "rating": 4.5,
+  "rawRanking": 2.8826560974121094,
+  "phone": "+212 624-153867",
+  "address": "N10 Artisanal Complex Kasbat Souss, Ben Sergaou, Agadir 80000 Morocco",
+  "addressObj": {
+    "street1": "N10",
+    "street2": "Artisanal Complex Kasbat Souss, Ben Sergaou",
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80000"
+  },
+  "localName": "‫UpcycleMo‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": "upcyclemo@gmail.com",
+  "latitude": 30.384678,
+  "longitude": -9.572506,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d12801688-Reviews-UpcycleMo-Agadir_Souss_Massa.html",
+  "website": "http://www.upcyclemo.co",
+  "rankingString": "#3 of 7 Museums in Agadir",
+  "rankingDenominator": "7",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 0,
+    "count3": 0,
+    "count4": 2,
+    "count5": 15
+  },
+  "numberOfReviews": 19,
+  "booking": null,
+  "offerGroup": null,
+  "subtype": [
+    "Gift & Specialty Shops",
+    "Art Museums"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b1/eb/50/bienvenue-chez-upcyclemo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a5/ff/bd/bag-africa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/17/a5/f6/91/bag-africa.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/05/31/6b/table-luna.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/16/3e/f2/fauteuil-et-table-coquelicot.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/15/b6/20/tabouret-ombre-et-lumiere.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/15/b3/55/tabouret-ombre-et-lumiere.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/ed/6c/33/pendule-upcyclemo.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/ed/68/50/corbeille-byaa-gigogne.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/ed/64/e9/table-haute-et-les-deux.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/10/b2/38/28/transat-realise-en-pneu.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/1c/53/f0/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/1c/52/92/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/3a/c8/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/3a/c7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/3a/c6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/3a/c5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/3a/c4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/3a/c3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/3a/c2/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/45/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/44/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/43/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/42/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/41/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/40/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/3f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/3e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/3d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/3c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/3b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/3a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/39/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/17/39/38/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/8c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/8b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/8a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/89/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/88/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/87/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/86/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/85/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/84/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/83/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/82/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/81/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/80/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/7f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/0b/0e/7e/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "reviewTags": [
+    {
+      "text": "great experience",
+      "reviews": 2
+    },
+    {
+      "text": "great food",
+      "reviews": 3
+    },
+    {
+      "text": "lodge camp",
+      "reviews": 2
+    },
+    {
+      "text": "music",
+      "reviews": 2
+    },
+    {
+      "text": "berber",
+      "reviews": 3
+    },
+    {
+      "text": "tent",
+      "reviews": 2
+    },
+    {
+      "text": "south",
+      "reviews": 2
+    },
+    {
+      "text": "atmospher",
+      "reviews": 2
+    }
+  ],
+  "id": "16639689",
+  "type": "HOTEL",
+  "category": "hotel",
+  "subcategories": [
+    "Hotel"
+  ],
+  "name": "Amoudou Lodge Camp",
+  "locationString": "Tissint, Guelmim-Oued Noun",
+  "description": "Amoudou Lodge Camp, Situated in Region Souss Massa Draa located between Tata and Foum Zguid near the beautiful Cascades surrounded by palmers and mountains the Etablissement Propose accommodations in Confort Berber Tent, at Place a Restaurant and Private Wc",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-o/16/af/34/a5/amoudou-lodge-camp.jpg",
+  "photoCount": 57,
+  "rankingPosition": 1,
+  "rating": 4.5,
+  "rawRanking": 3.190452814102173,
+  "phone": "+212 655-108739",
+  "address": "Akka Nait Sidi, Tissint 84053 Morocco",
+  "addressObj": {
+    "street1": "Akka Nait Sidi",
+    "street2": null,
+    "city": "Tissint",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "84053"
+  },
+  "localName": "‫Amoudou Lodge Camp‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": "amoudoulodgecamp@gmail.com",
+  "latitude": 29.908983,
+  "longitude": -7.33634,
+  "webUrl": "https://www.tripadvisor.com/Hotel_Review-g1187659-d16639689-Reviews-Amoudou_Lodge_Camp-Tissint_Guelmim_Oued_Noun.html",
+  "website": "http://amoudoulodgecamp.wordpress.com/",
+  "rankingString": "#1 of 1 hotels in Tissint",
+  "rankingDenominator": "1",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "1187659",
+      "name": "Tissint",
+      "abbreviation": null,
+      "subcategory": "City"
+    },
+    {
+      "id": "2626638",
+      "name": "Guelmim-Oued Noun",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 2,
+    "count2": 1,
+    "count3": 0,
+    "count4": 0,
+    "count5": 16
+  },
+  "numberOfReviews": 19,
+  "hotelClass": "2.0",
+  "hotelClassAttribution": "This property is classified according to Giata.",
+  "amenities": [
+    "Pool",
+    "Suites",
+    "Free parking",
+    "Wheelchair access",
+    "Restaurant",
+    "Casino",
+    "Breakfast included",
+    "Hot Tub",
+    "Fitness center",
+    "Family Rooms",
+    "Kids Activities",
+    "Beachfront",
+    "Room service",
+    "Bar/Lounge",
+    "Pets Allowed",
+    "Kitchenette",
+    "Spa",
+    "Airport transportation",
+    "Non-smoking rooms",
+    "Non-smoking hotel",
+    "Beach Access"
+  ],
+  "priceLevel": "$",
+  "priceRange": "$32 - $33",
+  "roomTips": [],
+  "checkInDate": "2024-09-23",
+  "checkOutDate": "2024-09-24",
+  "numberOfRooms": 6,
+  "categoryReviewScores": [
+    {
+      "categoryName": "Location",
+      "score": 5
+    },
+    {
+      "categoryName": "Cleanliness",
+      "score": 4
+    },
+    {
+      "categoryName": "Service",
+      "score": 4.6
+    },
+    {
+      "categoryName": "Value",
+      "score": 5
+    }
+  ],
+  "aiReviewsSummary": null,
+  "whatsAppRedirectUrl": null,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/34/a5/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/35/ae/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/34/19/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/33/74/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/31/b0/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/30/eb/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/30/56/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2f/d6/ahwach-music-bands.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2e/c6/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2d/ab/fun-kids.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2c/dd/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2c/43/trecking-by-donkey-free.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2b/90/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2a/e5/restaurant.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2a/3e/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2a/3c/breakfast.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2a/37/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2a/35/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/2a/34/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/af/29/13/amoudou-lodge-camp.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/11/a3/0d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/aa/3f/91/photo3jpg.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "agadir"
+},
+{
+  "reviewTags": [
+    {
+      "text": "shops and restaurants",
+      "reviews": 24
+    },
+    {
+      "text": "worth a visit",
+      "reviews": 23
+    },
+    {
+      "text": "nice stroll",
+      "reviews": 7
+    },
+    {
+      "text": "zara",
+      "reviews": 101
+    },
+    {
+      "text": "boats",
+      "reviews": 110
+    },
+    {
+      "text": "posh",
+      "reviews": 13
+    },
+    {
+      "text": "hotel",
+      "reviews": 42
+    },
+    {
+      "text": "trips",
+      "reviews": 23
+    },
+    {
+      "text": "prom",
+      "reviews": 10
+    }
+  ],
+  "id": "3688661",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Nature & Parks"
+  ],
+  "name": "Marina D'Agadir",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/76/1c/fc/marina-d-agadir.jpg",
+  "photoCount": 946,
+  "rankingPosition": 8,
+  "rating": 4,
+  "rawRanking": 3.369696617126465,
+  "phone": null,
+  "address": "Route Marina, Building 40, Agadir 80000 Morocco",
+  "addressObj": {
+    "street1": "Route Marina, Building 40",
+    "street2": null,
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80000"
+  },
+  "localName": "مرينا أكادير",
+  "localAddress": "مرينا, 80000",
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.422976,
+  "longitude": -9.61666,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d3688661-Reviews-Marina_D_Agadir-Agadir_Souss_Massa.html",
+  "website": null,
+  "rankingString": "#8 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 47,
+    "count2": 110,
+    "count3": 459,
+    "count4": 737,
+    "count5": 524
+  },
+  "numberOfReviews": 1877,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=3688661&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$10.93",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=3688661&clt=TD&from=api&nt=true",
+        "price": "$14.02",
+        "roundedUpPrice": "$15",
+        "offerType": null,
+        "title": "Agadir City Tour - Half Day - Guided By Couscous",
+        "productCode": "146273P4",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/d6.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FFull-Day-Safari-Small-Desert-With-Lunch%2Fd4383-68347P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=52f1a2721a9c5bbf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=3688661&clt=TD&from=api&nt=true",
+        "price": "$37.53",
+        "roundedUpPrice": "$38",
+        "offerType": null,
+        "title": "Full-Day Safari Small Desert With Lunch",
+        "productCode": "68347P6",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/0f/21/8c.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FPARADISE-VALLEY-ATLAS-MOUNTAIN%2Fd4383-146273P21%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=ca066680f14ef425e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=3688661&clt=TD&from=api&nt=true",
+        "price": "$33.63",
+        "roundedUpPrice": "$34",
+        "offerType": null,
+        "title": "Paradise Valley - Atlas Mountain ",
+        "productCode": "146273P21",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/e0.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAgadir-City-Tour%2Fd4383-202140P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=dee67604abaa3a27b&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=3688661&clt=TD&from=api&nt=true",
+        "price": "$21.86",
+        "roundedUpPrice": "$22",
+        "offerType": null,
+        "title": "Agadir City Tour",
+        "productCode": "202140P1",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/93/29/96.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F3-in-1-city-tour-half-day-camel-ride-2hours-hammam-massage-2hours%2Fd4383-146273P22%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d68a3c0c61af7d19a&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=3688661&clt=TD&from=api&nt=true",
+        "price": "$109.29",
+        "roundedUpPrice": "$110",
+        "offerType": null,
+        "title": "3 in 1 = city tour half day + camel ride 2hours + hammam massage 2hours",
+        "productCode": "146273P22",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/37/f4/ab.jpg",
+        "description": null,
+        "primaryCategory": "Day Trips"
+      }
+    ]
+  },
+  "subtype": [
+    "Marinas"
+  ],
+  "isNearbyResult": false,
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/ad/3c/a4/la-marina.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0e/fb/a6/75/photo5jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/56/marina-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/39/48/a2/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/18/39/48/a1/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/76/1c/fc/marina-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/15/40/60/22/img-20181020-104549-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/14/d5/83/f0/photo1jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/13/46/b5/87/20180609-110505-largejpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/20/4b/78/photo2jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/12/20/4b/76/photo0jpg.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/d2/74/6b/marina.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/11/d2/74/09/marina.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/0a/6d/32/c8/bateau-pirate.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/f4/6e/c7/marina-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/ac/e1/d7/marina-agadir-breathtaking.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/07/55/9d/13/marina-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/28/c7/a1/marina-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/06/1f/8c/a3/marina-d-agadir.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/85/d3/64/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/28/ef/3d/bc/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+},
+{
+  "id": "481070",
+  "type": "ATTRACTION",
+  "category": "attraction",
+  "subcategories": [
+    "Sights & Landmarks"
+  ],
+  "name": "Kasbah Agadir Oufella",
+  "locationString": "Agadir, Souss-Massa",
+  "description": null,
+  "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/2b/61/d3/5c/the-kasbah-s-platform.jpg",
+  "photoCount": 1458,
+  "rankingPosition": 5,
+  "rating": 4,
+  "rawRanking": 3.465317726135254,
+  "phone": "+212 5282-80808",
+  "address": "Agadir 80100 Morocco",
+  "addressObj": {
+    "street1": null,
+    "street2": "",
+    "city": "Agadir",
+    "state": null,
+    "country": "Morocco",
+    "postalcode": "80100"
+  },
+  "localName": "‫Kasbah Agadir Oufella‬",
+  "localAddress": null,
+  "localLangCode": "ar",
+  "email": null,
+  "latitude": 30.429188,
+  "longitude": -9.624187,
+  "webUrl": "https://www.tripadvisor.com/Attraction_Review-g293731-d481070-Reviews-Kasbah_Agadir_Oufella-Agadir_Souss_Massa.html",
+  "website": "https://www.agadir-oufella.ma/fr/",
+  "rankingString": "#5 of 76 things to do in Agadir",
+  "rankingDenominator": "76",
+  "neighborhoodLocations": [],
+  "nearestMetroStations": [],
+  "ancestorLocations": [
+    {
+      "id": "293731",
+      "name": "Agadir",
+      "abbreviation": null,
+      "subcategory": "Municipality"
+    },
+    {
+      "id": "2626673",
+      "name": "Souss-Massa",
+      "abbreviation": null,
+      "subcategory": "Region"
+    },
+    {
+      "id": "293730",
+      "name": "Morocco",
+      "abbreviation": null,
+      "subcategory": "Country"
+    }
+  ],
+  "ratingHistogram": {
+    "count1": 50,
+    "count2": 155,
+    "count3": 482,
+    "count4": 716,
+    "count5": 548
+  },
+  "numberOfReviews": 1977,
+  "booking": {
+    "provider": "Viator",
+    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=481070&clt=TD&from=api&nt=true"
+  },
+  "offerGroup": {
+    "lowestPrice": "$10.93",
+    "offerList": [
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FVISIT-OF-AGADIR-GUIDER%2Fd4383-146273P4%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=488207561b6d37d09&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=481070&clt=TD&from=api&nt=true",
+        "price": "$14.02",
+        "roundedUpPrice": "$15",
+        "offerType": null,
+        "title": "Agadir City Tour - Half Day - Guided By Couscous",
+        "productCode": "146273P4",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/d6.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FFull-Day-Safari-Small-Desert-With-Lunch%2Fd4383-68347P6%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=52f1a2721a9c5bbf4&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=481070&clt=TD&from=api&nt=true",
+        "price": "$37.53",
+        "roundedUpPrice": "$38",
+        "offerType": null,
+        "title": "Full-Day Safari Small Desert With Lunch",
+        "productCode": "68347P6",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/0c/0f/21/8c.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2F4-Hour-Kasba-and-City-Tour-in-Agadir%2Fd4383-8667P27%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=0a3eca91c14df4eed&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=481070&clt=TD&from=api&nt=true",
+        "price": "$54.65",
+        "roundedUpPrice": "$55",
+        "offerType": null,
+        "title": "Agadir City Private Guided Tour",
+        "productCode": "8667P27",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/6f/71/55.jpg",
+        "description": null,
+        "primaryCategory": "City Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FPARADISE-VALLEY-ATLAS-MOUNTAIN%2Fd4383-146273P21%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=ca066680f14ef425e&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=4&cnt=1&geo=481070&clt=TD&from=api&nt=true",
+        "price": "$33.63",
+        "roundedUpPrice": "$34",
+        "offerType": null,
+        "title": "Paradise Valley - Atlas Mountain ",
+        "productCode": "146273P21",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/10/48/01/e0.jpg",
+        "description": null,
+        "primaryCategory": "Cultural Tours"
+      },
+      {
+        "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FAgadir%2FAGADIR-CITY-TOUR%2Fd4383-192948P5%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=cce42a53f6d24e2ad&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=5&cnt=1&geo=481070&clt=TD&from=api&nt=true",
+        "price": "$33.21",
+        "roundedUpPrice": "$34",
+        "offerType": null,
+        "title": "Agadir City Tour",
+        "productCode": "192948P5",
+        "partner": "Viator",
+        "imageUrl": "https://media.tacdn.com/media/attractions-splice-spp-360x240/09/53/4c/1c.jpg",
+        "description": null,
+        "primaryCategory": "Historical & Heritage Tours"
+      }
+    ]
+  },
+  "subtype": [
+    "Historic Sites"
+  ],
+  "isNearbyResult": false,
+  "reviewTags": [
+    {
+      "text": "walk up",
+      "reviews": 21
+    },
+    {
+      "text": "cable car",
+      "reviews": 11
+    },
+    {
+      "text": "take pictures",
+      "reviews": 11
+    },
+    {
+      "text": "earthquake",
+      "reviews": 102
+    },
+    {
+      "text": "ruins",
+      "reviews": 81
+    },
+    {
+      "text": "taxi",
+      "reviews": 125
+    },
+    {
+      "text": "fort",
+      "reviews": 14
+    },
+    {
+      "text": "viewpoint",
+      "reviews": 8
+    },
+    {
+      "text": "traders",
+      "reviews": 16
+    },
+    {
+      "text": "tat",
+      "reviews": 7
+    },
+    {
+      "text": "arabic",
+      "reviews": 9
+    }
+  ],
+  "photos": [
+    "https://media-cdn.tripadvisor.com/media/photo-o/16/76/34/be/agadir-kasbah.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/5a/agadir-oufella-at-sunset.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/51/a-number-of-signs-inside.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/4d/the-audio-guide-allows.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/4b/the-gunboat-of-the-kasbah.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/4a/agadir-oufella-at-sunset.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/48/the-ancient-mosque-discovered.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/45/the-deck-inside-of-the.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/43/entrance-of-the-kasbah.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/61/d3/42/the-south-east-bastion.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/73/06/e7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/73/06/e6/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/73/06/e5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/73/06/e4/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/73/06/e3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5c/66/be/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5c/66/bd/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5c/66/bc/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5c/66/bb/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2d/5c/66/ba/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/e3/e5/33/agadir-oufella.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/e3/e5/32/agadir-oufella.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/e3/e5/31/agadir-oufella.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/5b/10/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/5b/0f/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/5b/0e/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/5b/0d/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/5b/0c/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/a5/5b/0b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/64/47/08/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/64/47/07/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/64/47/06/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/64/47/05/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/64/47/04/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/39/ea/c5/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/39/ea/c3/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2c/39/ea/c1/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/de/5e/5b/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/de/5e/5a/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/de/5e/59/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/a2/07/45/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/8f/29/c7/caption.jpg",
+    "https://media-cdn.tripadvisor.com/media/photo-o/2b/8f/29/c6/caption.jpg"
+  ],
+  "travelerChoiceAward": null,
+  "input": "https://ar.tripadvisor.com/Attractions-g293731-Activities-zft11292-Agadir_Souss_Massa.html"
+}]
