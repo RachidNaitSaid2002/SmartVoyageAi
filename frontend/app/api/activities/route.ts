@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import fs from 'fs';
+import path from 'path';
 
 export async function GET(request: Request) {
     try {
@@ -9,14 +10,18 @@ export async function GET(request: Request) {
         const maxPrice = parseFloat(searchParams.get('maxPrice') || '100000');
 
         // Read standard activities
-        const dataPath = '/home/rachid/BigDisk/workspace/Projects/file_rouge/backend/data/Activites.json';
+        const dockerPath = path.join(process.cwd(), 'data', 'Activites.json');
+        const localPath = path.join(process.cwd(), '..', 'backend', 'data', 'Activites.json');
+        const dataPath = fs.existsSync(dockerPath) ? dockerPath : localPath;
         let activities = [];
         try {
             activities = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
         } catch (e) { }
 
         // Read free activities
-        const freeDataPath = '/home/rachid/BigDisk/workspace/Projects/file_rouge/backend/data/freeactivites.json';
+        const dockerFreePath = path.join(process.cwd(), 'data', 'freeactivites.json');
+        const localFreePath = path.join(process.cwd(), '..', 'backend', 'data', 'freeactivites.json');
+        const freeDataPath = fs.existsSync(dockerFreePath) ? dockerFreePath : localFreePath;
         let freeActivities = [];
         try {
             const rawFree = JSON.parse(fs.readFileSync(freeDataPath, 'utf8'));

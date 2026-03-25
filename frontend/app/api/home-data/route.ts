@@ -1,10 +1,13 @@
 import { NextResponse } from 'next/server';
 import fs from 'fs/promises';
+import fsSync from 'fs';
 import path from 'path';
 
 export async function GET() {
     try {
-        const dataDir = path.join(process.cwd(), '..', 'backend', 'data');
+        const dockerPath = path.join(process.cwd(), 'data');
+        const localPath = path.join(process.cwd(), '..', 'backend', 'data');
+        const dataDir = fsSync.existsSync(dockerPath) ? dockerPath : localPath;
 
         // Read and parse JSON files
         const hotelsRaw = await fs.readFile(path.join(dataDir, 'HotelsData.json'), 'utf8');

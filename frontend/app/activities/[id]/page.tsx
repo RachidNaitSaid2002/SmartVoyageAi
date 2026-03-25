@@ -1,13 +1,16 @@
 import fs from 'fs';
+import path from 'path';
 import Link from 'next/link';
 import Navbar from '../../components/Navbar';
-import { Clock, Tag, Info, Star, MapPin, CheckCircle2, Image as ImageIcon, Wallet, ShieldCheck, Heart, BrainCircuit, Activity } from 'lucide-react';
+import { Clock, Tag, Info, Star, MapPin, CheckCircle2, Image as ImageIcon, Wallet, ShieldCheck, Heart, BrainCircuit, Activity, Compass } from 'lucide-react';
 
 export default async function ActivityDetail({ params }: { params: { id: string } }) {
     const { id } = await params;
 
-    // Use absolute paths for the current environment
-    const BASE_PATH = '/home/rachid/Projects/file_rouge/backend/data';
+    // Detect data location (Docker vs Local)
+    const dockerPath = path.join(process.cwd(), 'data');
+    const localPath = path.join(process.cwd(), '..', 'backend', 'data');
+    const BASE_PATH = fs.existsSync(dockerPath) ? dockerPath : localPath;
 
     let activities = [];
     try {
@@ -47,9 +50,9 @@ export default async function ActivityDetail({ params }: { params: { id: string 
     }
 
     if (!activity) return (
-        <div className="min-h-screen bg-[#050505] text-white pt-32 text-center">
-            <h1 className="text-4xl font-black mb-8">Node Not Found</h1>
-            <Link href="/activities" className="text-emerald-500 underline">Return to Grid</Link>
+        <div className="min-h-screen bg-[#050505] text-white pt-32 text-center font-bold">
+            <h1 className="text-4xl mb-8 tracking-tight">Activity not found</h1>
+            <Link href="/activities" className="text-emerald-500 hover:text-white transition-colors">Return to list</Link>
         </div>
     );
 
@@ -81,9 +84,9 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                 <div className="absolute inset-0 bg-gradient-to-t from-[#050505] via-[#050505]/40 to-transparent"></div>
 
                 <div className="absolute top-32 left-8 md:left-16 z-10">
-                    <Link href="/activities" className="px-6 py-3 bg-white/5 backdrop-blur-3xl border border-white/10 rounded-2xl text-[10px] font-black uppercase tracking-widest hover:bg-white/10 transition-all flex items-center gap-3">
-                        <ShieldCheck size={14} className="text-emerald-500" />
-                        Back to Network
+                    <Link href="/activities" className="px-6 py-3 bg-white/5 backdrop-blur-3xl border border-white/10 rounded-2xl text-[10px] font-bold uppercase tracking-widest hover:bg-white/10 transition-all flex items-center gap-3">
+                        <Compass size={14} className="text-emerald-500" />
+                        Back to Activities
                     </Link>
                 </div>
 
@@ -91,18 +94,16 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                     <div className="flex flex-col md:flex-row md:items-end justify-between gap-12">
                         <div className="max-w-4xl">
                             <div className="flex items-center gap-4 mb-6">
-                                <span className="px-4 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-[10px] font-black text-emerald-400 tracking-[.3em] uppercase">
-                                    {activity.category || "Experience"} Node
+                                <span className="px-4 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-[10px] font-bold text-emerald-500 tracking-widest uppercase">
+                                    {activity.category || "Experience"}
                                 </span>
-                                <div className="flex items-center gap-2 text-yellow-500 font-black text-sm">
+                                <div className="flex items-center gap-2 text-yellow-500 font-bold text-sm">
                                     <Star size={16} fill="currentColor" />
-                                    {rating} <span className="text-white/30 font-medium">({reviews} Global Reviews)</span>
+                                    {rating} <span className="text-white/30 font-medium">({reviews} reviews)</span>
                                 </div>
                             </div>
-                            <h1 className="text-5xl md:text-8xl font-black tracking-tighter leading-none mb-8">
-                                {name.split(' ').map((word: string, i: number) => (
-                                    <span key={i} className={i === 1 ? "text-emerald-500" : ""}>{word} </span>
-                                ))}
+                            <h1 className="text-5xl md:text-8xl font-bold tracking-tight leading-none mb-8">
+                                {name}
                             </h1>
                             <div className="flex flex-wrap gap-8 text-white/60 font-medium text-lg uppercase tracking-widest text-xs">
                                 <div className="flex items-center gap-3">
@@ -116,20 +117,20 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                             </div>
                         </div>
 
-                        <div className="bg-[#121212]/80 backdrop-blur-3xl p-10 rounded-[3rem] border border-white/10 shadow-2xl min-w-[300px]">
-                            <p className="text-[10px] font-black uppercase tracking-[.4em] text-neutral-500 mb-4">Value Computation</p>
-                            <div className="text-5xl font-black text-white mb-8">
-                                {price} <span className="text-sm font-bold text-neutral-500 uppercase tracking-widest">{isFree ? 'USD' : 'MAD'}</span>
+                        <div className="bg-emerald-500 text-black p-10 rounded-3xl shadow-xl min-w-[300px]">
+                            <p className="text-[10px] font-bold uppercase tracking-widest mb-4 opacity-70">Price</p>
+                            <div className="text-5xl font-bold mb-8">
+                                {price} <span className="text-sm font-bold uppercase tracking-widest">{isFree ? 'USD' : 'MAD'}</span>
                             </div>
-                            <button className="w-full py-6 bg-emerald-500 text-black rounded-2xl font-black text-xs uppercase tracking-[.3em] hover:scale-105 active:scale-95 transition-all shadow-[0_20px_50px_rgba(16,185,129,0.3)]">
-                                Establish Link
+                            <button className="w-full py-6 bg-black text-white rounded-2xl font-bold text-xs uppercase tracking-widest hover:scale-105 active:scale-95 transition-all shadow-xl">
+                                Book Activity
                             </button>
                         </div>
                     </div>
                 </div>
             </div>
 
-            {/* NEURAL DATA GRID */}
+            {/* ACTIVITY DETAILS */}
             <main className="max-w-[1600px] mx-auto px-8 md:px-16 mt-20 grid grid-cols-1 lg:grid-cols-12 gap-12">
 
                 {/* PRIMARY LOG */}
@@ -138,10 +139,10 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                     {/* GALLERY */}
                     {gallery.length > 0 && (
                         <div className="space-y-8">
-                            <h3 className="text-[10px] font-black uppercase tracking-[.5em] text-emerald-500">Visual Telemetry</h3>
+                            <h3 className="text-[10px] font-bold uppercase tracking-widest text-emerald-500">Photo Gallery</h3>
                             <div className="flex gap-6 overflow-x-auto pb-8 custom-scrollbar">
                                 {gallery.map((img: string, i: number) => (
-                                    <div key={i} className="min-w-[400px] h-[300px] rounded-[2.5rem] overflow-hidden border border-white/5 grayscale-[30%] hover:grayscale-0 transition-all cursor-crosshair">
+                                    <div key={i} className="min-w-[400px] h-[300px] rounded-3xl overflow-hidden border border-white/5 grayscale-[30%] hover:grayscale-0 transition-all cursor-crosshair">
                                         <img src={img} className="w-full h-full object-cover" alt={`Angle ${i}`} />
                                     </div>
                                 ))}
@@ -149,15 +150,15 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                         </div>
                     )}
 
-                    <div className="bg-[#121212] p-12 md:p-16 rounded-[4rem] border border-white/5 relative overflow-hidden group">
+                    <div className="bg-[#121212] p-12 md:p-16 rounded-3xl border border-white/5 relative overflow-hidden group">
                         <div className="absolute top-0 right-0 p-12 opacity-5 group-hover:opacity-10 transition-opacity">
                             <BrainCircuit size={120} />
                         </div>
-                        <h2 className="text-4xl font-black mb-10 tracking-tighter flex items-center gap-6">
-                            <span className="w-16 h-16 rounded-3xl bg-emerald-500/10 text-emerald-500 flex items-center justify-center border border-emerald-500/20">
-                                <Info size={32} />
+                        <h2 className="text-4xl font-bold mb-10 tracking-tight flex items-center gap-6">
+                            <span className="w-14 h-14 rounded-2xl bg-emerald-500/10 text-emerald-500 flex items-center justify-center border border-emerald-500/20">
+                                <Info size={28} />
                             </span>
-                            Node Overview
+                            About this experience
                         </h2>
                         <div className="text-white/50 leading-relaxed text-xl font-medium whitespace-pre-wrap max-w-4xl italic border-l-2 border-emerald-500/20 pl-10">
                             {description}
@@ -168,7 +169,7 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                     {highlights.length > 0 && (
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                             {highlights.map((h: any, i: number) => (
-                                <div key={i} className="bg-white/5 border border-white/5 p-8 rounded-[2.5rem] hover:border-emerald-500/30 transition-all flex items-start gap-6">
+                                <div key={i} className="bg-white/5 border border-white/5 p-8 rounded-3xl hover:border-emerald-500/30 transition-all flex items-start gap-6">
                                     <div className="w-12 h-12 rounded-2xl bg-emerald-500 flex items-center justify-center text-black shrink-0">
                                         <CheckCircle2 size={24} />
                                     </div>
@@ -183,11 +184,11 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                 <div className="lg:col-span-4 space-y-12">
 
                     {/* BIOMETRIC COMPATIBILITY */}
-                    <div className="bg-[#132922] p-10 rounded-[3rem] border border-emerald-500/20 shadow-2xl relative overflow-hidden">
+                    <div className="bg-[#132922] p-10 rounded-3xl border border-emerald-500/20 shadow-2xl relative overflow-hidden">
                         <div className="absolute -top-10 -right-10 w-40 h-40 bg-emerald-500/10 rounded-full blur-3xl"></div>
-                        <h4 className="text-[10px] font-black uppercase tracking-[.4em] text-emerald-400 mb-8 flex items-center gap-2">
+                        <h4 className="text-[10px] font-bold uppercase tracking-widest text-emerald-400 mb-8 flex items-center gap-2">
                             <Activity size={14} />
-                            Neural Compatibility
+                            Important Information
                         </h4>
                         <div className="space-y-6">
                             {about.map((item: any, i: number) => (
@@ -203,7 +204,7 @@ export default async function ActivityDetail({ params }: { params: { id: string 
                     </div>
 
                     {/* SECURITY PROTOCOL */}
-                    <div className="bg-white/5 p-10 rounded-[3rem] border border-white/5">
+                    <div className="bg-white/5 p-10 rounded-3xl border border-white/5">
                         <p className="text-[10px] font-black uppercase tracking-[.4em] text-neutral-500 mb-6">Security Protocol</p>
                         <ul className="space-y-4">
                             <li className="flex items-center gap-3 text-xs font-bold text-white/60">

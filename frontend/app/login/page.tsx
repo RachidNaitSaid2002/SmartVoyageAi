@@ -4,6 +4,7 @@ import { AuthFormSplitScreen, AuthFormValues } from "@/components/ui/login";
 import { useAuth } from "@/app/components/AuthProvider";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import { Activity } from "lucide-react";
 
 export default function LoginPage() {
     const { login } = useAuth();
@@ -37,8 +38,13 @@ export default function LoginPage() {
     return (
         <AuthFormSplitScreen
             logo={
-                <Link href="/" className="inline-block transition-transform hover:scale-105">
-                    <span className="text-3xl font-black text-[#2D5A4C] tracking-tighter">Travello</span>
+                <Link href="/" className="inline-block transition-transform hover:scale-110">
+                    <span className="text-3xl font-black text-emerald-500 tracking-tighter flex items-center gap-3 italic">
+                        <div className="w-10 h-10 bg-emerald-500 rounded-xl flex items-center justify-center text-black shadow-[0_0_20px_rgba(16,185,129,0.4)]">
+                            <Activity size={24} />
+                        </div>
+                        Travello
+                    </span>
                 </Link>
             }
             title="Welcome Home."

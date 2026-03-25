@@ -16,3 +16,6 @@ chromadb
 sentence-transformers
 pydantic-settings
 python-jose[cryptography]
+pandas
+numpy
+joblib

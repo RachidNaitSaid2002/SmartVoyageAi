@@ -139,6 +139,26 @@ def get_recommendations(current_user: User = Depends(get_current_user)):
         return {"persona": persona_name, "recommendations": recommendations}
     except: return {"error": "Load error"}
 
+@app.get("/api/predict/segmentation")
+def get_segmentation(current_user: User = Depends(get_current_user)):
+    input_data = [current_user.budget_index or 0.5, current_user.adventure_score or 50, current_user.culture_score or 50, current_user.foodie_score or 50, current_user.family_focus or 5]
+    persona_name = "Explorer"
+    persona_desc = "Curious traveler exploring the Agadir region."
+    
+    if model and scaler:
+        input_df = pd.DataFrame([input_data], columns=['Budget_Index', 'Adventure_Score', 'Culture_Score', 'Foodie_Score', 'Family_Focus'])
+        scaled_data = scaler.transform(input_df)
+        cluster_id = int(model.predict(scaled_data)[0])
+        personas = [
+            ("Relaxed Explorer", "Prefers comfortable stays and gentle sightseeing."),
+            ("Thrill Seeker", "Drawn to high-adrenaline activities and wilderness."),
+            ("Luxury Nomad", "Looks for premium experiences and exclusive venues."),
+            ("Cultural Connoisseur", "Interested in history, local arts, and authentic cuisine.")
+        ]
+        persona_name, persona_desc = personas[cluster_id]
+    
+    return {"persona": {"name": persona_name, "description": persona_desc}}
+
 # --- LANGCHAIN RAG SETUP ---
 CHROMA_PATH = os.path.join(os.path.dirname(__file__), "..", "ml", "chroma_db")
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
@@ -173,7 +193,7 @@ def ai_chat(message: str, current_user: User = Depends(get_current_user)):
     context = "\n".join([f"Node {i+1}: {d.page_content}" for i, d in enumerate(docs)])
     
     # Using stable version
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=GOOGLE_API_KEY)
+    llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash", google_api_key=GOOGLE_API_KEY)
     
     template = """
     #### SMARTVOYAGE SCOUT BIOMETRIC LOG ####

@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import fs from 'fs';
+import path from 'path';
 
 export async function GET(request: Request) {
     try {
@@ -8,7 +9,9 @@ export async function GET(request: Request) {
         const minRating = parseFloat(searchParams.get('minRating') || '0');
         const maxPrice = parseFloat(searchParams.get('maxPrice') || '100000');
 
-        const dataPath = '/home/rachid/BigDisk/workspace/Projects/file_rouge/backend/data/restaurantDetails.json';
+        const dockerPath = path.join(process.cwd(), 'data', 'restaurantDetails.json');
+        const localPath = path.join(process.cwd(), '..', 'backend', 'data', 'restaurantDetails.json');
+        const dataPath = fs.existsSync(dockerPath) ? dockerPath : localPath;
         const fileContents = fs.readFileSync(dataPath, 'utf8');
         let data = JSON.parse(fileContents);
 

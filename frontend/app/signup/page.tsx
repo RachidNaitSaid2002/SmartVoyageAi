@@ -3,6 +3,7 @@
 import { AuthFormSplitScreen, AuthFormValues } from "@/components/ui/login";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import { Activity } from "lucide-react";
 
 export default function SignupPage() {
     const router = useRouter();
@@ -30,12 +31,17 @@ export default function SignupPage() {
     return (
         <AuthFormSplitScreen
             logo={
-                <Link href="/" className="inline-block transition-transform hover:scale-105">
-                    <span className="text-3xl font-black text-emerald-500 tracking-tighter uppercase italic">Travello</span>
+                <Link href="/" className="inline-block transition-transform hover:scale-110">
+                    <span className="text-3xl font-black text-emerald-500 tracking-tighter flex items-center gap-3 italic">
+                        <div className="w-10 h-10 bg-emerald-500 rounded-xl flex items-center justify-center text-black shadow-[0_0_20px_rgba(16,185,129,0.4)]">
+                            <Activity size={24} />
+                        </div>
+                        Travello
+                    </span>
                 </Link>
             }
-            title="Initialize ID."
-            description="Create your neural traveler profile to unlock the full potential of Agadir."
+            title="Start Journey."
+            description="Create your traveler profile to unlock the best of Agadir."
             videoSrc="/make_this_video_202603181538.mp4"
             imageAlt="Travel background video"
             onSubmit={handleSignup}

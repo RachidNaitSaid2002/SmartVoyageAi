@@ -1,4 +1,5 @@
 import fs from 'fs';
+import path from 'path';
 import Link from 'next/link';
 import Navbar from '../../components/Navbar';
 import {
@@ -9,7 +10,9 @@ import {
 
 export default async function HotelDetail({ params }: { params: { id: string } }) {
     const { id } = await params;
-    const BASE_PATH = '/home/rachid/Projects/file_rouge/backend/data';
+    const dockerPath = path.join(process.cwd(), 'data');
+    const localPath = path.join(process.cwd(), '..', 'backend', 'data');
+    const BASE_PATH = fs.existsSync(dockerPath) ? dockerPath : localPath;
 
     let data = [];
     try {
@@ -21,9 +24,9 @@ export default async function HotelDetail({ params }: { params: { id: string } }
     const hotel = data.find((h: any) => h?.location?.locationV2?.locationId?.toString() === id);
 
     if (!hotel) return (
-        <div className="min-h-screen bg-[#050505] text-white pt-32 text-center font-black">
-            <h1 className="text-6xl mb-8 tracking-tighter uppercase">Signal Lost: Hotel Node</h1>
-            <Link href="/hotels" className="text-emerald-500 hover:text-white transition-colors">Return to Grid</Link>
+        <div className="min-h-screen bg-[#050505] text-white pt-32 text-center font-bold">
+            <h1 className="text-6xl mb-8 tracking-tight">Hotel not found</h1>
+            <Link href="/hotels" className="text-emerald-500 hover:text-white transition-colors">Return to list</Link>
         </div>
     );
 
@@ -60,13 +63,13 @@ export default async function HotelDetail({ params }: { params: { id: string } }
                 <div className="absolute inset-0 bg-gradient-to-t from-[#050505] via-[#050505]/40 to-transparent"></div>
 
                 <div className="absolute top-32 left-8 md:left-16 z-10 flex flex-col md:flex-row gap-6">
-                    <Link href="/hotels" className="px-6 py-3 bg-white/5 backdrop-blur-3xl border border-white/10 rounded-2xl text-[10px] font-black uppercase tracking-[.4em] hover:bg-white/10 transition-all flex items-center gap-3">
+                    <Link href="/hotels" className="px-6 py-3 bg-white/5 backdrop-blur-3xl border border-white/10 rounded-2xl text-[10px] font-bold uppercase tracking-widest hover:bg-white/10 transition-all flex items-center gap-3">
                         <Building size={14} className="text-emerald-500" />
-                        Back to Map
+                        Back to Hotels
                     </Link>
-                    <div className="px-6 py-3 bg-emerald-500/10 backdrop-blur-3xl border border-emerald-500/20 rounded-2xl text-[10px] font-black text-emerald-400 uppercase tracking-[.4em] transition-all flex items-center gap-3">
-                        <Activity size={14} className="text-emerald-500" />
-                        Verified Accommodation Node
+                    <div className="px-6 py-3 bg-emerald-500/10 backdrop-blur-3xl border border-emerald-500/20 rounded-2xl text-[10px] font-bold text-emerald-500 uppercase tracking-widest transition-all flex items-center gap-3">
+                        <ShieldCheck size={14} className="text-emerald-500" />
+                        Verified Stay
                     </div>
                 </div>
 
@@ -80,15 +83,13 @@ export default async function HotelDetail({ params }: { params: { id: string } }
                                     </span>
                                 ))}
                             </div>
-                            <h1 className="text-6xl md:text-[7vw] font-black tracking-tighter leading-[0.9] mb-8 drop-shadow-2xl">
-                                {name.split(' ').map((word: string, i: number) => (
-                                    <span key={i} className={i === 1 ? "text-emerald-500" : ""}>{word} </span>
-                                ))}
+                            <h1 className="text-6xl md:text-[7vw] font-bold tracking-tight leading-[0.9] mb-8">
+                                {name}
                             </h1>
-                            <div className="flex flex-wrap gap-8 text-white/60 font-medium text-[10px] uppercase tracking-[.3em] items-center">
+                            <div className="flex flex-wrap gap-8 text-white/60 font-medium text-[10px] uppercase tracking-widest items-center">
                                 <div className="flex items-center gap-3 border-l-2 border-emerald-500/30 pl-8">
                                     <Star size={18} fill="currentColor" className="text-yellow-500" />
-                                    {rating} <span className="opacity-40">({reviews} Biometric Logs)</span>
+                                    {rating} <span className="opacity-40">({reviews} reviews)</span>
                                 </div>
                                 <div className="flex items-center gap-3 border-l-2 border-emerald-500/30 pl-8">
                                     <MapPin size={18} className="text-emerald-500" />
@@ -100,7 +101,7 @@ export default async function HotelDetail({ params }: { params: { id: string } }
                 </div>
             </div>
 
-            {/* NEURAL DATA GRID */}
+            {/* PROPERTY DETAILS */}
             <main className="max-w-[1700px] mx-auto px-8 md:px-16 mt-20 grid grid-cols-1 lg:grid-cols-12 gap-12">
 
                 {/* PRIMARY LOG */}
@@ -109,7 +110,7 @@ export default async function HotelDetail({ params }: { params: { id: string } }
                     {/* STYLE NODES */}
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                         {styles.map((style: any, i: number) => (
-                            <div key={i} className="bg-white/5 border border-white/5 p-10 rounded-[3rem] hover:border-emerald-500/20 transition-all group">
+                            <div key={i} className="bg-white/5 border border-white/5 p-10 rounded-3xl hover:border-emerald-500/20 transition-all group">
                                 <Award className="text-emerald-500 mb-6 group-hover:scale-110 transition-transform" size={24} />
                                 <h6 className="text-[10px] font-black uppercase tracking-widest text-neutral-500 mb-2">Style Rank #{style.geoRanking}</h6>
                                 <p className="text-xl font-black text-white">{style.styleName}</p>
@@ -117,18 +118,18 @@ export default async function HotelDetail({ params }: { params: { id: string } }
                         ))}
                     </div>
 
-                    <div className="bg-[#121212] p-12 md:p-20 rounded-[5rem] border border-white/5 relative overflow-hidden group shadow-2xl">
+                    <div className="bg-[#121212] p-12 md:p-20 rounded-3xl border border-white/5 relative overflow-hidden group shadow-2xl">
                         <div className="absolute top-0 right-0 p-16 opacity-[0.03] group-hover:opacity-[0.06] transition-opacity">
                             <Building size={240} />
                         </div>
-                        <h2 className="text-4xl font-black mb-12 tracking-tighter flex items-center gap-8">
-                            <div className="w-20 h-20 rounded-[2.5rem] bg-emerald-500/10 text-emerald-500 flex items-center justify-center border border-emerald-500/20">
-                                <Zap size={36} />
+                        <h2 className="text-4xl font-bold mb-12 tracking-tight flex items-center gap-8">
+                            <div className="w-16 h-16 rounded-2xl bg-emerald-500/10 text-emerald-500 flex items-center justify-center border border-emerald-500/20">
+                                <Building size={28} />
                             </div>
-                            Property Intelligence
+                            About this Hotel
                         </h2>
-                        <div className="text-white/40 leading-[1.8] text-2xl font-medium max-w-4xl italic border-l-4 border-emerald-500/20 pl-12 mb-16">
-                            Neural analysis of <span className="text-white">{name}</span> indicates {rankings?.localizedTypePopIndexString || "a top-tier positioning in Agadir's hospitality network"}. The core telemetry suggests maximum comfort and biometric synchronization for high-end explorers.
+                        <div className="text-white/40 leading-[1.8] text-xl font-medium max-w-4xl border-l-4 border-emerald-500/20 pl-12 mb-16">
+                            {rankings?.localizedTypePopIndexString || "Experience one of the top-rated hotels in Agadir, offering premium service and comfortable stays."}
                         </div>
 
                         {amenities.length > 0 && (
@@ -146,20 +147,20 @@ export default async function HotelDetail({ params }: { params: { id: string } }
                     </div>
 
                     {/* DYNAMIC PRICE ESTIMATE (IF AVAIL) */}
-                    <div className="bg-emerald-500 text-black p-16 rounded-[5rem] relative overflow-hidden flex flex-col md:flex-row items-center justify-between gap-12 group cursor-pointer shadow-2xl">
+                    <div className="bg-emerald-500 text-black p-16 rounded-3xl relative overflow-hidden flex flex-col md:flex-row items-center justify-between gap-12 group cursor-pointer shadow-2xl">
                         <div className="absolute top-0 left-0 p-12 opacity-10">
                             <Waves size={160} />
                         </div>
                         <div className="relative z-10">
-                            <h3 className="text-xs font-black uppercase tracking-[.5em] mb-4 opacity-70">Price Computation Node</h3>
-                            <div className="text-7xl font-black tracking-tighter leading-none mb-4">
-                                ${priceRange?.minimum || '107'} <span className="text-2xl opacity-50 font-black"> - </span> ${priceRange?.maximum || '262'}
+                            <h3 className="text-xs font-bold uppercase tracking-widest mb-4 opacity-70">Price Range</h3>
+                            <div className="text-6xl font-bold tracking-tight leading-none mb-4">
+                                {priceRange?.minimum || '107'} MAD <span className="text-2xl opacity-50 font-bold"> - </span> {priceRange?.maximum || '262'} MAD
                             </div>
-                            <p className="text-sm font-bold uppercase tracking-widest opacity-60">Estimated nightly resource flow</p>
+                            <p className="text-sm font-medium uppercase tracking-widest opacity-60">Estimated nightly rate</p>
                         </div>
                         <div className="relative z-10">
-                            <button className="px-16 py-8 bg-black text-emerald-400 rounded-3xl font-black text-sm uppercase tracking-[.4em] hover:scale-105 active:scale-95 transition-all shadow-2xl">
-                                INITIATE BOOKING
+                            <button className="px-12 py-6 bg-black text-white rounded-2xl font-bold text-sm uppercase tracking-widest hover:scale-105 active:scale-95 transition-all shadow-xl">
+                                Book Now
                             </button>
                         </div>
                     </div>
@@ -169,38 +170,31 @@ export default async function HotelDetail({ params }: { params: { id: string } }
                 <div className="lg:col-span-4 space-y-12">
 
                     {/* HIERARCHY DATA */}
-                    <div className="bg-[#121212] p-12 rounded-[4rem] border border-white/5 shadow-2xl">
-                        <h4 className="text-[11px] font-black uppercase tracking-[.4em] text-emerald-500 mb-10 flex items-center gap-3">
+                    <div className="bg-[#121212] p-10 rounded-3xl border border-white/5 shadow-2xl">
+                        <h4 className="text-[11px] font-bold uppercase tracking-widest text-emerald-500 mb-8 flex items-center gap-3">
                             <Database size={16} />
-                            Network Hierarchy
+                            Property Details
                         </h4>
-                        <div className="space-y-8">
-                            <div className="pb-8 border-b border-white/5">
-                                <p className="text-[10px] font-black uppercase tracking-widest text-neutral-600 mb-2 font-mono">Rank ID</p>
-                                <p className="text-3xl font-black text-white">{rankings?.rank || '02'} <span className="text-sm text-neutral-500">of {rankings?.outof || '304'}</span></p>
+                        <div className="space-y-6">
+                            <div className="pb-6 border-b border-white/5">
+                                <p className="text-[10px] font-bold uppercase tracking-widest text-neutral-600 mb-2">Local Ranking</p>
+                                <p className="text-2xl font-bold text-white">#{rankings?.rank || '02'} <span className="text-sm text-neutral-500 font-medium tracking-normal">of {rankings?.outof || '304'}</span></p>
                             </div>
-                            <div className="pb-8 border-b border-white/5">
-                                <p className="text-[10px] font-black uppercase tracking-widest text-neutral-600 mb-2 font-mono">DNA Match</p>
-                                <p className="text-3xl font-black text-emerald-400">98.2% <span className="text-xs text-emerald-500/50 uppercase">Compatibility</span></p>
+                            <div className="pb-6 border-b border-white/5">
+                                <p className="text-[10px] font-bold uppercase tracking-widest text-neutral-600 mb-2">Recommended</p>
+                                <p className="text-2xl font-bold text-emerald-500">98% <span className="text-xs text-emerald-500/50 uppercase font-medium">Rating Match</span></p>
                             </div>
                             <div>
-                                <p className="text-[10px] font-black uppercase tracking-widest text-neutral-600 mb-2 font-mono">Contact Term</p>
-                                <p className="text-lg font-black text-white">{hotel.location.locationV2.contact.telephone || 'NULL'}</p>
+                                <p className="text-[10px] font-bold uppercase tracking-widest text-neutral-600 mb-2">Contact</p>
+                                <p className="text-lg font-bold text-white">{hotel.location.locationV2.contact.telephone || 'N/A'}</p>
                             </div>
                         </div>
                     </div>
 
-                    {/* SECURITY PROTOCOL */}
-                    <div className="bg-[#132922] p-12 rounded-[4rem] border border-emerald-500/20 relative overflow-hidden">
-                        <div className="absolute -bottom-10 -left-10 w-40 h-40 bg-emerald-500/10 rounded-full blur-3xl"></div>
-                        <ShieldCheck size={40} className="text-emerald-500 mb-8" />
-                        <h4 className="text-xl font-black mb-6 tracking-tight">Biometric Verification Active</h4>
-                        <p className="text-sm font-medium text-white/40 leading-relaxed mb-8">This property node is fully synchronized with the Explorer OS security protocol. Secure transaction and data privacy are guaranteed via the Neural Link.</p>
-                        <ul className="space-y-4">
-                            <li className="flex items-center gap-3 text-[10px] font-black uppercase tracking-widest text-emerald-400">
-                                <div className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-ping"></div> SSL Encrypted Node
-                            </li>
-                        </ul>
+                    <div className="bg-white/5 p-10 rounded-3xl border border-white/10 relative overflow-hidden">
+                        <ShieldCheck size={32} className="text-emerald-500 mb-6" />
+                        <h4 className="text-xl font-bold mb-4 tracking-tight">Verified Property</h4>
+                        <p className="text-sm font-medium text-white/40 leading-relaxed">This hotel has been verified by our team for quality and service standards.</p>
                     </div>
                 </div>
             </main>
